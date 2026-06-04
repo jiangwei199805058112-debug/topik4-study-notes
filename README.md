@@ -22,8 +22,10 @@
 2. 顺序类：`-고 나서`, `-고 나서야`
 3. 条件类：`-거든`, `-(으)려면`, `-아/어야 하다`
 4. 目的类：`-고자`, `-기 위해서`
-5. 判断/总结类：`-(으)ㄴ 셈이다`, `-거나 마찬가지이다`
-6. 排除/替代表达：`-지 말고`
+5. 判断/总结类：`-(으)ㄴ 셈이다`, `N인 셈이다`, `N이나 마찬가지이다`
+6. 原因/根据类：`-으니 / -니`
+7. 排除/替代表达：`-지 말고`
+8. 否定推测/愿望/限定：`-ㄹ 리가 없다`, `-으면 좋겠다`, `-ㄹ 뿐이다`
 
 ---
 
@@ -33,16 +35,30 @@
 topik4-study-notes/
 ├─ README.md
 ├─ grammar/
-│  └─ 01_first_week_core_grammar.md
+│  ├─ 01_first_week_core_grammar.md
+│  └─ grammar_sorted_index.md
 ├─ vocabulary/
 │  └─ wrong_words.md
 ├─ mistakes/
-│  └─ topik91_reading_01_04.md
+│  ├─ topik91_reading_01_04.md
+│  └─ topik64_reading_03_04.md
 ├─ practice/
 │  └─ grammar_reaction_training.md
 └─ plan/
    └─ vocabulary_review_plan.md
 ```
+
+---
+
+## 当前优先复习文件
+
+| 文件 | 用途 |
+|---|---|
+| `grammar/grammar_sorted_index.md` | 按 A/B/C 优先级重新排序的语法总表 |
+| `mistakes/topik64_reading_03_04.md` | 第64届阅读第4题：`고향인 셈이다 = 고향이나 마찬가지이다` |
+| `mistakes/topik91_reading_01_04.md` | 第91届阅读1-4题错题整理 |
+| `grammar/01_first_week_core_grammar.md` | 第一周核心语法详细讲解 |
+| `vocabulary/wrong_words.md` | 常错单词和高频词整理 |
 
 ---
 
