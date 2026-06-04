@@ -36,9 +36,11 @@ topik4-study-notes/
 ├─ README.md
 ├─ grammar/
 │  ├─ 01_first_week_core_grammar.md
-│  └─ grammar_sorted_index.md
+│  ├─ grammar_sorted_index.md
+│  └─ 2026-06-04_review_grammar.md
 ├─ vocabulary/
-│  └─ wrong_words.md
+│  ├─ wrong_words.md
+│  └─ 2026-06-04_review_words.md
 ├─ mistakes/
 │  ├─ topik91_reading_01_04.md
 │  └─ topik64_reading_03_04.md
@@ -54,6 +56,8 @@ topik4-study-notes/
 
 | 文件 | 用途 |
 |---|---|
+| `vocabulary/2026-06-04_review_words.md` | 6月4日混合翻译训练暴露的回炉单词和固定搭配 |
+| `grammar/2026-06-04_review_grammar.md` | 6月4日回炉语法：`-아/어야 하다`, `-지 말고`, `-ㄹ 리가 없다` 等 |
 | `grammar/grammar_sorted_index.md` | 按 A/B/C 优先级重新排序的语法总表 |
 | `mistakes/topik64_reading_03_04.md` | 第64届阅读第4题：`고향인 셈이다 = 고향이나 마찬가지이다` |
 | `mistakes/topik91_reading_01_04.md` | 第91届阅读1-4题错题整理 |
