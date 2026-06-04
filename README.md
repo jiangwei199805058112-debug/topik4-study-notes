@@ -39,6 +39,7 @@ topik4-study-notes/
 │  ├─ grammar_sorted_index.md
 │  └─ 2026-06-04_review_grammar.md
 ├─ vocabulary/
+│  ├─ all_daily_words.md
 │  ├─ wrong_words.md
 │  └─ 2026-06-04_review_words.md
 ├─ mistakes/
@@ -56,6 +57,7 @@ topik4-study-notes/
 
 | 文件 | 用途 |
 |---|---|
+| `vocabulary/all_daily_words.md` | 每天需要背的单词合并总表，后续每日新增词都优先汇总到这里 |
 | `vocabulary/2026-06-04_review_words.md` | 6月4日混合翻译训练暴露的回炉单词和固定搭配 |
 | `grammar/2026-06-04_review_grammar.md` | 6月4日回炉语法：`-아/어야 하다`, `-지 말고`, `-ㄹ 리가 없다` 等 |
 | `grammar/grammar_sorted_index.md` | 按 A/B/C 优先级重新排序的语法总表 |
