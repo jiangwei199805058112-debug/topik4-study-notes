@@ -38,6 +38,7 @@ topik4-study-notes/
 │  ├─ 01_first_week_core_grammar.md
 │  ├─ 2026-06-03_sentence_training_grammar.md
 │  ├─ 2026-06-04_review_grammar.md
+│  ├─ 2026-06-05_question_review_grammar.md
 │  ├─ 2026-06-05_review_grammar.md
 │  ├─ 2026-06-05_training_problem_grammar.md
 │  ├─ grammar_sorted_index.md
@@ -45,6 +46,7 @@ topik4-study-notes/
 ├─ vocabulary/
 │  ├─ 2026-06-03_sentence_training_words.md
 │  ├─ 2026-06-04_review_words.md
+│  ├─ 2026-06-05_question_review_words.md
 │  ├─ 2026-06-05_review_words.md
 │  ├─ 2026-06-05_training_problem_words.md
 │  ├─ all_daily_words.md
@@ -74,6 +76,8 @@ topik4-study-notes/
 | `grammar/2026-06-05_review_grammar.md` | 6月5日回炉语法：`-면서`, `N 속에서`, `전혀 ... 않다`, `단순히 A가 아니라 B` 等 |
 | `vocabulary/2026-06-05_training_problem_words.md` | 6月5日后半段训练暴露问题词：`어려운`, `지문`, `선택지`, `답을 찍다`, `흐름` 等 |
 | `grammar/2026-06-05_training_problem_grammar.md` | 6月5日后半段训练暴露语法：`-아/어야 해요`, `-려고 하다`, `-ㄹ 수 있다`, `N만/N도` 等 |
+| `vocabulary/2026-06-05_question_review_words.md` | 6月5日题目回归训练词汇：广告/说明题关键词、生活服务词、阅读题高频词 |
+| `grammar/2026-06-05_question_review_grammar.md` | 6月5日题目回归训练语法：`-(으)ㄴ 지`, 冠形形, `-아/어야 하다`, `-ㄹ 수 있다` 等 |
 | `vocabulary/2026-06-04_review_words.md` | 6月4日混合翻译训练暴露的回炉单词和固定搭配 |
 | `grammar/2026-06-04_review_grammar.md` | 6月4日回炉语法：`-아/어야 하다`, `-지 말고`, `-ㄹ 리가 없다` 等 |
 | `grammar/grammar_sorted_index.md` | 按 A/B/C 优先级重新排序的语法总表 |
