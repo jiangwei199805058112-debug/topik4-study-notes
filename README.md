@@ -36,17 +36,23 @@ topik4-study-notes/
 ├─ README.md
 ├─ grammar/
 │  ├─ 01_first_week_core_grammar.md
+│  ├─ 2026-06-03_sentence_training_grammar.md
+│  ├─ 2026-06-04_review_grammar.md
+│  ├─ 2026-06-05_review_grammar.md
 │  ├─ grammar_sorted_index.md
-│  └─ 2026-06-04_review_grammar.md
+│  └─ similar_grammar.md
 ├─ vocabulary/
+│  ├─ 2026-06-03_sentence_training_words.md
+│  ├─ 2026-06-04_review_words.md
+│  ├─ 2026-06-05_review_words.md
+│  ├─ all_daily_words.md
 │  ├─ all_unknown_words_master.md
 │  ├─ conversation_unknown_words_supplement.md
-│  ├─ all_daily_words.md
-│  ├─ wrong_words.md
-│  └─ 2026-06-04_review_words.md
+│  └─ wrong_words.md
 ├─ mistakes/
-│  ├─ topik91_reading_01_04.md
-│  └─ topik64_reading_03_04.md
+│  ├─ topik60_reading_01_04.md
+│  ├─ topik64_reading_03_04.md
+│  └─ topik91_reading_01_04.md
 ├─ practice/
 │  └─ grammar_reaction_training.md
 └─ plan/
@@ -62,6 +68,8 @@ topik4-study-notes/
 | `vocabulary/all_unknown_words_master.md` | 项目内已记录“不懂/答不出/易错”的基础总表，当前155项 |
 | `vocabulary/conversation_unknown_words_supplement.md` | 全项目对话补充词表，额外87项；和基础总表合计约242项 |
 | `vocabulary/all_daily_words.md` | 每天需要背的单词合并总表，后续每日新增词都优先汇总到这里 |
+| `vocabulary/2026-06-05_review_words.md` | 6月5日回炉单词与固定表达：`제대로`, `수밖에 없다`, `문장 속에서`, `단순히 A가 아니라 B` 等 |
+| `grammar/2026-06-05_review_grammar.md` | 6月5日回炉语法：`-면서`, `N 속에서`, `전혀 ... 않다`, `단순히 A가 아니라 B` 等 |
 | `vocabulary/2026-06-04_review_words.md` | 6月4日混合翻译训练暴露的回炉单词和固定搭配 |
 | `grammar/2026-06-04_review_grammar.md` | 6月4日回炉语法：`-아/어야 하다`, `-지 말고`, `-ㄹ 리가 없다` 等 |
 | `grammar/grammar_sorted_index.md` | 按 A/B/C 优先级重新排序的语法总表 |
