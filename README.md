@@ -60,6 +60,7 @@ topik4-study-notes/
 ├─ practice/
 │  └─ grammar_reaction_training.md
 └─ plan/
+   ├─ review_system.md
    └─ vocabulary_review_plan.md
 ```
 
@@ -69,6 +70,7 @@ topik4-study-notes/
 
 | 文件 | 用途 |
 |---|---|
+| `plan/review_system.md` | TOPIK 间隔复习学习系统：主动回忆、真题型检测、降频和回炉规则 |
 | `vocabulary/all_unknown_words_master.md` | 项目内已记录“不懂/答不出/易错”的基础总表，当前155项 |
 | `vocabulary/conversation_unknown_words_supplement.md` | 全项目对话补充词表，额外87项；和基础总表合计约242项 |
 | `vocabulary/all_daily_words.md` | 每天需要背的单词合并总表，后续每日新增词都优先汇总到这里 |
@@ -124,12 +126,13 @@ topik4-study-notes/
 
 ## 每日学习流程
 
-1. 做少量真题或句子训练。
-2. 把不会的单词和语法扒出来。
-3. 只整理高频、影响理解、反复错的内容。
-4. 当天背 10~20 个单词、3~5 个语法。
-5. 第二天复习昨天的内容。
-6. 一周后回看错题和例句。
+1. 先按 `plan/review_system.md` 做旧内容主动回忆。
+2. 做少量真题或题型训练。
+3. 把不会的单词和语法扒出来。
+4. 只整理高频、影响理解、反复错的内容。
+5. 当天背 10~20 个单词、3~5 个语法。
+6. 第二天复习昨天的内容。
+7. 一周后回看错题和例句。
 
 ---
 
@@ -138,13 +141,13 @@ topik4-study-notes/
 不要死背大量语法表。更有效的方法是：
 
 ```text
-韩文句子 → 反应中文大意 → 判断语法功能 → 回到例句复习
+主动回忆 → 固定搭配 → 真题型检测 → 错题回炉 → 间隔复习
 ```
 
 推荐比例：
 
 ```text
-70% 句子反应训练
-20% 语法表复习
-10% 自己造句
+40% 旧内容复习
+40% 真题型训练 / 新内容学习
+20% 错题整理
 ```
