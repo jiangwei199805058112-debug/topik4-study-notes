@@ -11,6 +11,7 @@
 - 常错单词
 - 韩语句子反应训练
 - 单词复习计划
+- 每日学习计划
 
 ---
 
@@ -60,6 +61,7 @@ topik4-study-notes/
 ├─ practice/
 │  └─ grammar_reaction_training.md
 └─ plan/
+   ├─ 2026-06-15_topik4_daily_plan.md
    ├─ review_system.md
    └─ vocabulary_review_plan.md
 ```
@@ -70,6 +72,7 @@ topik4-study-notes/
 
 | 文件 | 用途 |
 |---|---|
+| `plan/2026-06-15_topik4_daily_plan.md` | 6月15日到7月/8月冲 TOPIK 4级的每日任务量、每周最低量、阶段安排和今日任务 |
 | `plan/review_system.md` | TOPIK 间隔复习学习系统：主动回忆、真题型检测、降频和回炉规则 |
 | `vocabulary/all_unknown_words_master.md` | 项目内已记录“不懂/答不出/易错”的基础总表，当前155项 |
 | `vocabulary/conversation_unknown_words_supplement.md` | 全项目对话补充词表，额外87项；和基础总表合计约242项 |
@@ -150,4 +153,12 @@ topik4-study-notes/
 40% 旧内容复习
 40% 真题型训练 / 新内容学习
 20% 错题整理
+```
+
+---
+
+## 当前每日执行标准
+
+```text
+阅读10~15题 + 听力10~15题 + 新词25~35个 + 语法3~5个 + 写作20~40分钟
 ```
