@@ -196,3 +196,38 @@
 - 删除历史文件
 - 重命名历史文件
 - 未确认 remote 就只在本地创建文件
+
+## Daily Review Scheduling Rules
+
+### 1. daily 是原始记录
+
+daily/YYYY-MM-DD_daily_log.md 保存当天所有学习和复习痕迹，长期保留。
+
+### 2. MASTER_REVIEW_QUEUE.md 是总调度表
+
+所有复习内容必须进入总队列。
+
+### 3. 每日 review plan 必须从总队列生成
+
+review/YYYY-MM-DD_review_plan.md 不是手写清单，而是从 MASTER_REVIEW_QUEUE.md 中筛选所有到期内容。
+
+筛选条件：
+
+- 状态不是 archived
+- 状态不是 pending
+- 下次复习 <= 当天日期
+
+### 4. 复习结果必须反向更新总队列
+
+每天复习后，必须把 correct / wrong / uncertain 写回 daily，并通过脚本更新 MASTER_REVIEW_QUEUE.md。
+
+### 5. 明天计划必须系统性生成
+
+明天的复习计划必须包含所有到期内容，包括：
+
+- 今天新学且到期的内容
+- 以前学过且到期的内容
+- 高频回炉内容
+- 漏复习但仍到期的内容
+
+禁止只根据当天新内容生成明天计划。

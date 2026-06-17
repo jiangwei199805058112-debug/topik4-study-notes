@@ -184,3 +184,28 @@ topik4-study-notes/
 - CONVENTIONS.md：记录和复习规范
 - MASTER_REVIEW_QUEUE.md：总复习队列
 
+## Daily Learning and Review System
+
+本仓库使用 daily + MASTER_REVIEW_QUEUE + review plan 的三层复习系统。
+
+- daily/：每日原始学习记录
+- MASTER_REVIEW_QUEUE.md：总复习队列
+- review/YYYY-MM-DD_review_plan.md：每日复习计划
+- scripts/generate_review_plan.py：根据总队列生成指定日期复习计划
+- scripts/update_review_queue.py：根据当天学习和复习结果更新总队列
+- scripts/create_daily_log.py：根据模板创建每日学习记录
+
+每日流程：
+
+1. 学习前打开当天 review plan。
+2. 复习所有到期内容。
+3. 把复习结果写入当天 daily log。
+4. 学习新内容并写入当天 daily log。
+5. 运行 update_review_queue.py。
+6. 自动生成明天 review plan。
+7. commit 并 push 到 GitHub。
+
+重点：
+
+明天的复习内容不是只复习今天新学内容，而是从整个 MASTER_REVIEW_QUEUE.md 中筛选所有到期内容。
+

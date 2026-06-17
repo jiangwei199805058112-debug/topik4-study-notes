@@ -829,3 +829,16 @@ topik4-study-notes/
 
 - 2026-06-17：新增 TOPIK4 V2.0 索引、规范、总复习队列和分类抽取文件。
 - 历史文件未删除、未重命名、未移动。
+
+## Daily and Review Scheduling Files
+
+| 路径 | 用途 |
+|---|---|
+| daily/ | 每日原始学习记录 |
+| review/ | 每日复习计划 |
+| templates/daily_log_template.md | daily 文件模板 |
+| templates/review_plan_template.md | review plan 模板 |
+| scripts/create_daily_log.py | 创建每日学习记录 |
+| scripts/generate_review_plan.py | 生成指定日期复习计划 |
+| scripts/update_review_queue.py | 更新总复习队列并生成明天计划 |
+| MASTER_REVIEW_QUEUE.md | 总复习调度表 |
