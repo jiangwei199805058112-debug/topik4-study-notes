@@ -1,0 +1,26 @@
+{
+  "exam_round": 83,
+  "section": "TOPIK II Listening",
+  "source_language": "ko",
+  "target_level": "TOPIK 4",
+  "created_date": "2026-06-18",
+  "source_files": {
+    "question_or_transcript_pdf_local_path": "C:\\Users\\xu\\Documents\\83_TOPIK2_聞き取り台本.pdf",
+    "answer_key_image_local_path": "C:\\Users\\xu\\AppData\\Local\\Temp\\codex-clipboard-29de656a-f42f-4315-8b68-7a2f07a4336c.png"
+  },
+  "text_extraction": {
+    "pdf_pages": 26,
+    "direct_text_extraction_chars": 0,
+    "status": "image_based_pdf",
+    "ocr_status": "not_available_in_current_environment",
+    "manual_visual_check_pages": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "copyright_note": "Raw PDF was not copied into the repository. The bank stores answers, metadata, page references, summaries, and short learning excerpts only."
+}

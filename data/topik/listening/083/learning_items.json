@@ -1,0 +1,1610 @@
+[
+  {
+    "id": "TOPIK83-LIS-VOC-0001",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "구하다",
+    "meaning_cn": "找到、求得",
+    "source": "83회 듣기 5",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      5
+    ],
+    "source_pages": [
+      4
+    ],
+    "level_suggestion": "B",
+    "note": "아르바이트를 구하다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0472"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0002",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "그만두다",
+    "meaning_cn": "停止、辞掉",
+    "source": "83회 듣기 5",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      5
+    ],
+    "source_pages": [
+      4
+    ],
+    "level_suggestion": "B",
+    "note": "일을 그만두다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0473"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0003",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "어울리다",
+    "meaning_cn": "适合、相配",
+    "source": "83회 듣기 6",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      6
+    ],
+    "source_pages": [
+      4
+    ],
+    "level_suggestion": "B",
+    "note": "너한테 잘 어울리다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0474"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0004",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "장마",
+    "meaning_cn": "梅雨季",
+    "source": "83회 듣기 7",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      7
+    ],
+    "source_pages": [
+      5
+    ],
+    "level_suggestion": "B",
+    "note": "장마가 시작되다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0475"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0005",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "그치다",
+    "meaning_cn": "停，雨停",
+    "source": "83회 듣기 7",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      7
+    ],
+    "source_pages": [
+      5
+    ],
+    "level_suggestion": "B",
+    "note": "비가 그치다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0476"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0006",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "냄비",
+    "meaning_cn": "锅",
+    "source": "83회 듣기 9",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      9
+    ],
+    "source_pages": [
+      6
+    ],
+    "level_suggestion": "A",
+    "note": "냄비 좀 줄래?",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0477"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0007",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "잼",
+    "meaning_cn": "果酱",
+    "source": "83회 듣기 9",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      9
+    ],
+    "source_pages": [
+      6
+    ],
+    "level_suggestion": "A",
+    "note": "잼을 만들다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0478"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0008",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "설탕",
+    "meaning_cn": "糖",
+    "source": "83회 듣기 9",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      9
+    ],
+    "source_pages": [
+      6
+    ],
+    "level_suggestion": "A",
+    "note": "설탕이 필요하다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0479"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0009",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "벗다",
+    "meaning_cn": "脱、摘",
+    "source": "83회 듣기 10",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      10
+    ],
+    "source_pages": [
+      6
+    ],
+    "level_suggestion": "A",
+    "note": "모자를 벗다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0480"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0010",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "날아가다",
+    "meaning_cn": "飞走",
+    "source": "83회 듣기 10",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      10
+    ],
+    "source_pages": [
+      6
+    ],
+    "level_suggestion": "B",
+    "note": "모자가 날아가다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0481"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0011",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "거울",
+    "meaning_cn": "镜子",
+    "source": "83회 듣기 12",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      12
+    ],
+    "source_pages": [
+      7
+    ],
+    "level_suggestion": "A",
+    "note": "거울을 치우다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0482"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0012",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "치우다",
+    "meaning_cn": "收走、清理、移开",
+    "source": "83회 듣기 12",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      12
+    ],
+    "source_pages": [
+      7
+    ],
+    "level_suggestion": "B",
+    "note": "방을 치우다 / 거울을 치우다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0483"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0013",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "가죽",
+    "meaning_cn": "皮革",
+    "source": "83회 듣기 13",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      13
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "가죽으로 만들다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0484"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0014",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "동료",
+    "meaning_cn": "同事、同僚",
+    "source": "83회 듣기 3",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      3
+    ],
+    "source_pages": [
+      3
+    ],
+    "level_suggestion": "B",
+    "note": "동료 10%",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0485"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0015",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "친척",
+    "meaning_cn": "亲戚",
+    "source": "83회 듣기 3",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      3
+    ],
+    "source_pages": [
+      3
+    ],
+    "level_suggestion": "B",
+    "note": "친척 방문",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0486"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0016",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "돌려주다",
+    "meaning_cn": "还给",
+    "source": "83회 듣기 4",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      4
+    ],
+    "source_pages": [
+      4
+    ],
+    "level_suggestion": "B",
+    "note": "책을 돌려주다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0487"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0017",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "보관하다",
+    "meaning_cn": "保管",
+    "source": "83회 듣기 10",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      10
+    ],
+    "source_pages": [
+      6
+    ],
+    "level_suggestion": "B",
+    "note": "가방을 보관하다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "merged_existing",
+    "queue_id": "VOC-0182"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0018",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "물건",
+    "meaning_cn": "物品、东西",
+    "source": "83회 듣기 12",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      12
+    ],
+    "source_pages": [
+      7
+    ],
+    "level_suggestion": "A",
+    "note": "물건들도",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0488"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0019",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "놓다",
+    "meaning_cn": "放",
+    "source": "83회 듣기 12",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      12
+    ],
+    "source_pages": [
+      7
+    ],
+    "level_suggestion": "A",
+    "note": "제자리에 놓다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0489"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0020",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "모형",
+    "meaning_cn": "模型",
+    "source": "83회 듣기 13",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      13
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "모형 배",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0490"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0021",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "개회식",
+    "meaning_cn": "开幕式",
+    "source": "83회 듣기 14",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      14
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "개회식이 열리다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0491"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0022",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "예선",
+    "meaning_cn": "预选",
+    "source": "83회 듣기 14",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      14
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "예선 경기",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0492"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0023",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "방문 목적",
+    "meaning_cn": "访问目的",
+    "source": "83회 듣기 3",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      3
+    ],
+    "source_pages": [
+      3
+    ],
+    "level_suggestion": "B",
+    "note": "图表题高频",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0493"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0024",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "실제",
+    "meaning_cn": "实际、真实",
+    "source": "83회 듣기 13",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      13
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "실제 배",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "merged_existing",
+    "queue_id": "VOC-0249"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0025",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "똑같다",
+    "meaning_cn": "一模一样",
+    "source": "83회 듣기 13",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      13
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "실제 배하고 똑같다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0494"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0026",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "대기실",
+    "meaning_cn": "等候室、候场室",
+    "source": "83회 듣기 14",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      14
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "대기실에 계신 참가자들",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0495"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0027",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "참가자",
+    "meaning_cn": "参赛者",
+    "source": "83회 듣기 14",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      14
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "참가자",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0496"
+  },
+  {
+    "id": "TOPIK83-LIS-VOC-0028",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "vocabulary",
+    "content": "촬영",
+    "meaning_cn": "拍摄",
+    "source": "83회 듣기 14",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      14
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "촬영을 할 수 없다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "VOC-0497"
+  },
+  {
+    "id": "TOPIK83-LIS-PHR-0001",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "phrases",
+    "content": "아르바이트를 구하다",
+    "meaning_cn": "找兼职",
+    "source": "83회 듣기 5",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      5
+    ],
+    "source_pages": [
+      4
+    ],
+    "level_suggestion": "B",
+    "note": "아르바이트 + 를 + 구하다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "PHR-0137"
+  },
+  {
+    "id": "TOPIK83-LIS-PHR-0002",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "phrases",
+    "content": "마음에 들다",
+    "meaning_cn": "合心意、喜欢",
+    "source": "83회 듣기 6",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      6
+    ],
+    "source_pages": [
+      4
+    ],
+    "level_suggestion": "B",
+    "note": "마음에 들어",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "PHR-0138"
+  },
+  {
+    "id": "TOPIK83-LIS-PHR-0003",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "phrases",
+    "content": "배송이 늦어지다",
+    "meaning_cn": "配送延迟",
+    "source": "83회 듣기 8",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      8
+    ],
+    "source_pages": [
+      5
+    ],
+    "level_suggestion": "B",
+    "note": "배송 + 이 + 늦어지다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "PHR-0139"
+  },
+  {
+    "id": "TOPIK83-LIS-PHR-0004",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "phrases",
+    "content": "갖다 주다",
+    "meaning_cn": "拿来给",
+    "source": "83회 듣기 9",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      9
+    ],
+    "source_pages": [
+      6
+    ],
+    "level_suggestion": "B",
+    "note": "가져다 주다 的缩略感",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "PHR-0140"
+  },
+  {
+    "id": "TOPIK83-LIS-PHR-0005",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "phrases",
+    "content": "제자리에 놓다",
+    "meaning_cn": "放在原位",
+    "source": "83회 듣기 12",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      12
+    ],
+    "source_pages": [
+      7
+    ],
+    "level_suggestion": "B",
+    "note": "제자리 + 에 + 놓다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "PHR-0141"
+  },
+  {
+    "id": "TOPIK83-LIS-PHR-0006",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "phrases",
+    "content": "뒤를 잇다",
+    "meaning_cn": "紧随其后",
+    "source": "83회 듣기 3",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      3
+    ],
+    "source_pages": [
+      3
+    ],
+    "level_suggestion": "B",
+    "note": "图表/排名题高频",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "PHR-0142"
+  },
+  {
+    "id": "TOPIK83-LIS-PHR-0007",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "phrases",
+    "content": "끝나는 대로",
+    "meaning_cn": "一结束就……",
+    "source": "83회 듣기 14",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      14
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "公告题高频",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "PHR-0143"
+  },
+  {
+    "id": "TOPIK83-LIS-PHR-0008",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "phrases",
+    "content": "친척 방문",
+    "meaning_cn": "探亲",
+    "source": "83회 듣기 3",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      3
+    ],
+    "source_pages": [
+      3
+    ],
+    "level_suggestion": "B",
+    "note": "不是“亲自访问”",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "PHR-0144"
+  },
+  {
+    "id": "TOPIK83-LIS-PHR-0009",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "phrases",
+    "content": "예선 경기",
+    "meaning_cn": "预选赛",
+    "source": "83회 듣기 14",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      14
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "예선 + 경기",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "PHR-0145"
+  },
+  {
+    "id": "TOPIK83-LIS-PHR-0010",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "phrases",
+    "content": "일기 예보",
+    "meaning_cn": "天气预报",
+    "source": "83회 듣기 7",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      7
+    ],
+    "source_pages": [
+      5
+    ],
+    "level_suggestion": "B",
+    "note": "일기 예보를 보다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "PHR-0146"
+  },
+  {
+    "id": "TOPIK83-LIS-PHR-0011",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "phrases",
+    "content": "비가 그치다",
+    "meaning_cn": "雨停",
+    "source": "83회 듣기 7",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      7
+    ],
+    "source_pages": [
+      5
+    ],
+    "level_suggestion": "B",
+    "note": "곧 그칠 거래요",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "PHR-0147"
+  },
+  {
+    "id": "TOPIK83-LIS-PHR-0012",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "phrases",
+    "content": "모자를 벗다",
+    "meaning_cn": "摘帽子",
+    "source": "83회 듣기 10",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      10
+    ],
+    "source_pages": [
+      6
+    ],
+    "level_suggestion": "A",
+    "note": "벗다 的常见搭配",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "PHR-0148"
+  },
+  {
+    "id": "TOPIK83-LIS-PHR-0013",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "phrases",
+    "content": "가방을 보관하다",
+    "meaning_cn": "保管包",
+    "source": "83회 듣기 10",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      10
+    ],
+    "source_pages": [
+      6
+    ],
+    "level_suggestion": "B",
+    "note": "游乐设施场景",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "PHR-0149"
+  },
+  {
+    "id": "TOPIK83-LIS-PHR-0014",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "phrases",
+    "content": "가죽으로 만들다",
+    "meaning_cn": "用皮革制作",
+    "source": "83회 듣기 13",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      13
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "N으로 만들다 的实例",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "PHR-0150"
+  },
+  {
+    "id": "TOPIK83-LIS-PHR-0015",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "phrases",
+    "content": "촬영을 하다",
+    "meaning_cn": "拍摄",
+    "source": "83회 듣기 14",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      14
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "촬영을 할 수 없다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "PHR-0151"
+  },
+  {
+    "id": "TOPIK83-LIS-CHK-0001",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "chunks",
+    "content": "일할 사람",
+    "meaning_cn": "要工作的人 / 招聘对象",
+    "source": "83회 듣기 5",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      5
+    ],
+    "source_pages": [
+      4
+    ],
+    "level_suggestion": "B",
+    "note": "-ㄹ 定语形，不是单词",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CHK-0083"
+  },
+  {
+    "id": "TOPIK83-LIS-CHK-0002",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "chunks",
+    "content": "사무실처럼 보이다",
+    "meaning_cn": "看起来像办公室",
+    "source": "83회 듣기 12",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      12
+    ],
+    "source_pages": [
+      7
+    ],
+    "level_suggestion": "B",
+    "note": "N처럼 보이다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CHK-0084"
+  },
+  {
+    "id": "TOPIK83-LIS-CHK-0003",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "chunks",
+    "content": "협조 부탁드립니다",
+    "meaning_cn": "请配合",
+    "source": "83회 듣기 14",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      14
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "公告固定句",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CHK-0085"
+  },
+  {
+    "id": "TOPIK83-LIS-CHK-0004",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "chunks",
+    "content": "촬영할 물건",
+    "meaning_cn": "要拍摄的物品",
+    "source": "83회 듣기 12",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      12
+    ],
+    "source_pages": [
+      7
+    ],
+    "level_suggestion": "B",
+    "note": "-ㄹ 定语形",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CHK-0086"
+  },
+  {
+    "id": "TOPIK83-LIS-CHK-0005",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "chunks",
+    "content": "제자리에 놓았고요",
+    "meaning_cn": "已经放在原位了，而且……",
+    "source": "83회 듣기 12",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      12
+    ],
+    "source_pages": [
+      7
+    ],
+    "level_suggestion": "B",
+    "note": "听力口语补充说明块",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CHK-0087"
+  },
+  {
+    "id": "TOPIK83-LIS-CHK-0006",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "chunks",
+    "content": "언제까지 돌려주면 돼?",
+    "meaning_cn": "到什么时候还给你就行？",
+    "source": "83회 듣기 4",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      4
+    ],
+    "source_pages": [
+      4
+    ],
+    "level_suggestion": "B",
+    "note": "日常借还场景",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CHK-0088"
+  },
+  {
+    "id": "TOPIK83-LIS-CHK-0007",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "chunks",
+    "content": "한번 가 봐야겠어요",
+    "meaning_cn": "我得去看看",
+    "source": "83회 듣기 5",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      5
+    ],
+    "source_pages": [
+      4
+    ],
+    "level_suggestion": "B",
+    "note": "-아/어야겠다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CHK-0089"
+  },
+  {
+    "id": "TOPIK83-LIS-CHK-0008",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "chunks",
+    "content": "너한테 더 잘 어울려",
+    "meaning_cn": "更适合你",
+    "source": "83회 듣기 6",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      6
+    ],
+    "source_pages": [
+      4
+    ],
+    "level_suggestion": "B",
+    "note": "适合/搭配",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CHK-0090"
+  },
+  {
+    "id": "TOPIK83-LIS-CHK-0009",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "chunks",
+    "content": "작년하고 거의 비슷할 거래요",
+    "meaning_cn": "听说会和去年差不多",
+    "source": "83회 듣기 7",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      7
+    ],
+    "source_pages": [
+      5
+    ],
+    "level_suggestion": "B",
+    "note": "转述未来",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CHK-0091"
+  },
+  {
+    "id": "TOPIK83-LIS-CHK-0010",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "chunks",
+    "content": "언제쯤 배송될지 확인해 주시겠어요?",
+    "meaning_cn": "可以帮我确认大概什么时候配送吗？",
+    "source": "83회 듣기 8",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      8
+    ],
+    "source_pages": [
+      5
+    ],
+    "level_suggestion": "B",
+    "note": "客服场景",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CHK-0092"
+  },
+  {
+    "id": "TOPIK83-LIS-CHK-0011",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "chunks",
+    "content": "보관해 드릴게요",
+    "meaning_cn": "我帮您保管",
+    "source": "83회 듣기 10",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      10
+    ],
+    "source_pages": [
+      6
+    ],
+    "level_suggestion": "B",
+    "note": "服务敬语",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CHK-0093"
+  },
+  {
+    "id": "TOPIK83-LIS-CHK-0012",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "chunks",
+    "content": "거울이 커서 그런지 사무실처럼 보이지가 않네요",
+    "meaning_cn": "可能因为镜子太大，看起来不像办公室",
+    "source": "83회 듣기 12",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      12
+    ],
+    "source_pages": [
+      7
+    ],
+    "level_suggestion": "B",
+    "note": "中级句型块",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CHK-0094"
+  },
+  {
+    "id": "TOPIK83-LIS-CHK-0013",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "chunks",
+    "content": "치울까요?",
+    "meaning_cn": "要不要我收走？",
+    "source": "83회 듣기 12",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      12
+    ],
+    "source_pages": [
+      7
+    ],
+    "level_suggestion": "B",
+    "note": "提议/询问",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CHK-0095"
+  },
+  {
+    "id": "TOPIK83-LIS-CHK-0014",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "chunks",
+    "content": "직접 한번 보고 싶다",
+    "meaning_cn": "想亲自看一次",
+    "source": "83회 듣기 13",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      13
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "직접",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CHK-0096"
+  },
+  {
+    "id": "TOPIK83-LIS-CHK-0015",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "chunks",
+    "content": "그 자리에서 기다려 주십시오",
+    "meaning_cn": "请在原地等待",
+    "source": "83회 듣기 14",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      14
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "公告语体",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CHK-0097"
+  },
+  {
+    "id": "TOPIK83-LIS-GRM-0001",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "grammar",
+    "content": "-아/어야겠다",
+    "meaning_cn": "得……、应该……",
+    "source": "83회 듣기 5",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      5
+    ],
+    "source_pages": [
+      4
+    ],
+    "level_suggestion": "B",
+    "note": "说话人根据情况作出判断",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "GRM-0149"
+  },
+  {
+    "id": "TOPIK83-LIS-GRM-0002",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "grammar",
+    "content": "-ㄹ 거래요",
+    "meaning_cn": "听说将会……",
+    "source": "83회 듣기 7",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      7
+    ],
+    "source_pages": [
+      5
+    ],
+    "level_suggestion": "B",
+    "note": "-ㄹ 거라고 해요 的缩略",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "GRM-0150"
+  },
+  {
+    "id": "TOPIK83-LIS-GRM-0003",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "grammar",
+    "content": "-아/어 드리다",
+    "meaning_cn": "为您……",
+    "source": "83회 듣기 10",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      10
+    ],
+    "source_pages": [
+      6
+    ],
+    "level_suggestion": "B",
+    "note": "주다 的尊敬形式",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "GRM-0151"
+  },
+  {
+    "id": "TOPIK83-LIS-GRM-0004",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "grammar",
+    "content": "-아서/어서 그런지",
+    "meaning_cn": "可能因为……所以……",
+    "source": "83회 듣기 12",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      12
+    ],
+    "source_pages": [
+      7
+    ],
+    "level_suggestion": "B",
+    "note": "原因推测",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "GRM-0152"
+  },
+  {
+    "id": "TOPIK83-LIS-GRM-0005",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "grammar",
+    "content": "N처럼 보이다",
+    "meaning_cn": "看起来像 N",
+    "source": "83회 듣기 12",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      12
+    ],
+    "source_pages": [
+      7
+    ],
+    "level_suggestion": "B",
+    "note": "사무실처럼 보이다",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "GRM-0153"
+  },
+  {
+    "id": "TOPIK83-LIS-GRM-0006",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "grammar",
+    "content": "-은/ㄴ 후에",
+    "meaning_cn": "……之后",
+    "source": "83회 듣기 11",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      11
+    ],
+    "source_pages": [
+      7
+    ],
+    "level_suggestion": "B",
+    "note": "顺序表达",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "GRM-0154"
+  },
+  {
+    "id": "TOPIK83-LIS-GRM-0007",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "grammar",
+    "content": "N으로 만들다",
+    "meaning_cn": "用 N 制作",
+    "source": "83회 듣기 13",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      13
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "材料/手段",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "GRM-0155"
+  },
+  {
+    "id": "TOPIK83-LIS-GRM-0008",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "grammar",
+    "content": "-ㄹ 사람 / -ㄹ 물건",
+    "meaning_cn": "要……的人/物",
+    "source": "83회 듣기 5,12",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      5,
+      12
+    ],
+    "source_pages": [
+      4,
+      7
+    ],
+    "level_suggestion": "B",
+    "note": "未来/预定定语形",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "GRM-0156"
+  },
+  {
+    "id": "TOPIK83-LIS-GRM-0009",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "grammar",
+    "content": "-는 대로",
+    "meaning_cn": "一……就……",
+    "source": "83회 듣기 14",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      14
+    ],
+    "source_pages": [
+      8
+    ],
+    "level_suggestion": "B",
+    "note": "끝나는 대로",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "merged_existing",
+    "queue_id": "GRM-0041"
+  },
+  {
+    "id": "TOPIK83-LIS-CON-0001",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "contrast",
+    "content": "친척 방문 vs 직접 방문",
+    "meaning_cn": "探亲 vs 亲自访问",
+    "source": "83회 듣기 3",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      3
+    ],
+    "source_pages": [
+      3
+    ],
+    "level_suggestion": "B",
+    "note": "친척=亲戚；직접=亲自",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CON-0180"
+  },
+  {
+    "id": "TOPIK83-LIS-CON-0002",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "contrast",
+    "content": "-아/어 주다 vs -아/어 드리다",
+    "meaning_cn": "给别人做 vs 为您做",
+    "source": "83회 듣기 10",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      10
+    ],
+    "source_pages": [
+      6
+    ],
+    "level_suggestion": "B",
+    "note": "드리다 更尊敬",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CON-0181"
+  },
+  {
+    "id": "TOPIK83-LIS-CON-0003",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "contrast",
+    "content": "일하는 사람 vs 일할 사람",
+    "meaning_cn": "正在工作的人 vs 要工作的人",
+    "source": "83회 듣기 5",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      5
+    ],
+    "source_pages": [
+      4
+    ],
+    "level_suggestion": "B",
+    "note": "-는 当前，-ㄹ 将来/预定",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CON-0182"
+  },
+  {
+    "id": "TOPIK83-LIS-CON-0004",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "contrast",
+    "content": "보이지 않다 vs 보이지가 않다",
+    "meaning_cn": "看起来不像/看不见 vs 强调看不出来",
+    "source": "83회 듣기 12",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      12
+    ],
+    "source_pages": [
+      7
+    ],
+    "level_suggestion": "B",
+    "note": "가 加强否定语感",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CON-0183"
+  },
+  {
+    "id": "TOPIK83-LIS-CON-0005",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "contrast",
+    "content": "찾아오다 vs 갖다 주다",
+    "meaning_cn": "找来/来到 vs 拿来给",
+    "source": "83회 듣기 9",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      9
+    ],
+    "source_pages": [
+      6
+    ],
+    "level_suggestion": "B",
+    "note": "갖다 주다 更强调“拿给某人”",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CON-0184"
+  },
+  {
+    "id": "TOPIK83-LIS-CON-0006",
+    "exam_round": 83,
+    "section": "TOPIK II Listening",
+    "category": "contrast",
+    "content": "친척 vs 친절하다 vs 직접",
+    "meaning_cn": "亲戚 vs 亲切 vs 亲自",
+    "source": "83회 듣기 3",
+    "source_key": "TOPIK_II_083_listening_q3_q14",
+    "source_questions": [
+      3
+    ],
+    "source_pages": [
+      3
+    ],
+    "level_suggestion": "B",
+    "note": "汉字词区分",
+    "next_review": "2026-06-19",
+    "r_stage": "R0",
+    "queue_status": "added_new",
+    "queue_id": "CON-0185"
+  }
+]
