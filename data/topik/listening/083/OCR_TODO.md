@@ -1,15 +1,34 @@
-# OCR TODO: TOPIK II 83회 Listening
+# OCR Policy: TOPIK II 83회 Listening
 
-## 状态
+## 当前处理原则
 
-`C:\Users\xu\Documents\83_TOPIK2_聞き取り台本.pdf` 无可抽取文本，当前环境也没有可用 OCR。
+OCR 不再作为第 83 届 TOPIK II 听力资料整理的必要步骤。
 
-## 已人工核对
+原因：学习条目会先在 GPT 中人工/半人工提取，包括词汇、短语、语法、chunk、contrast 和错题分析。
 
-- 第 3-14 题页码：3-8 页。
-- 答案表：已根据用户提供图片人工录入 1-50 题答案。
+## Codex 职责
 
-## 待补充
+- 记录成绩和错题号。
+- 整理 GPT 已提取的学习条目。
+- 合并 `MASTER_REVIEW_QUEUE.md`。
+- 去重。
+- 生成 daily log 和 review plan。
 
-- 如果需要完整题干、选项或台本全文，请补充 OCR 文本或更清晰截图。
-- 不要在没有可靠 OCR 或用户转写文本时补全第 15-50 题文本内容。
+## OCR 使用边界
+
+OCR 仅作为未来处理无公开文本、无 transcript、无法人工提取内容的图片型 PDF 时的备用方案。
+
+当前不需要安装 OCR，也不需要新增 OCR 脚本。
+
+## 禁止提交内容
+
+- 原始 PDF。
+- 音频文件。
+- 临时图片。
+- OCR raw 文本。
+
+## 已完成记录
+
+- 第 83 届 TOPIK II 听力成绩和错题号已记录。
+- 答案表已根据用户提供图片人工录入 1-50 题答案。
+- 第 3-14 题学习条目已按 vocabulary / phrases / chunks / grammar / contrast 分类入库。
