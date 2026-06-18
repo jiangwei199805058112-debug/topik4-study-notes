@@ -19,7 +19,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0472"
+    "queue_id": "VOC-0472",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0002",
@@ -41,7 +55,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0473"
+    "queue_id": "VOC-0473",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0003",
@@ -63,7 +91,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0474"
+    "queue_id": "VOC-0474",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0004",
@@ -85,7 +127,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0475"
+    "queue_id": "VOC-0475",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0005",
@@ -107,7 +163,24 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0476"
+    "queue_id": "VOC-0476",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    },
+    "weak_points": [
+      "collocation_비가_그치다"
+    ]
   },
   {
     "id": "TOPIK83-LIS-VOC-0006",
@@ -129,7 +202,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0477"
+    "queue_id": "VOC-0477",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0007",
@@ -151,7 +238,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0478"
+    "queue_id": "VOC-0478",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0008",
@@ -173,7 +274,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0479"
+    "queue_id": "VOC-0479",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0009",
@@ -195,7 +310,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0480"
+    "queue_id": "VOC-0480",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0010",
@@ -217,7 +346,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0481"
+    "queue_id": "VOC-0481",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0011",
@@ -239,7 +382,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0482"
+    "queue_id": "VOC-0482",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0012",
@@ -261,7 +418,24 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0483"
+    "queue_id": "VOC-0483",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    },
+    "weak_points": [
+      "object_collocation"
+    ]
   },
   {
     "id": "TOPIK83-LIS-VOC-0013",
@@ -283,7 +457,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0484"
+    "queue_id": "VOC-0484",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0014",
@@ -305,7 +493,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0485"
+    "queue_id": "VOC-0485",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0015",
@@ -327,7 +529,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0486"
+    "queue_id": "VOC-0486",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0016",
@@ -349,7 +565,24 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0487"
+    "queue_id": "VOC-0487",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    },
+    "weak_points": [
+      "frame_A에게_B을_돌려주다"
+    ]
   },
   {
     "id": "TOPIK83-LIS-VOC-0017",
@@ -371,7 +604,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "merged_existing",
-    "queue_id": "VOC-0182"
+    "queue_id": "VOC-0182",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0018",
@@ -393,7 +640,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0488"
+    "queue_id": "VOC-0488",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0019",
@@ -415,7 +676,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0489"
+    "queue_id": "VOC-0489",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0020",
@@ -437,7 +712,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0490"
+    "queue_id": "VOC-0490",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0021",
@@ -459,7 +748,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0491"
+    "queue_id": "VOC-0491",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0022",
@@ -481,7 +784,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0492"
+    "queue_id": "VOC-0492",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0023",
@@ -503,7 +820,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0493"
+    "queue_id": "VOC-0493",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0024",
@@ -525,7 +856,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "merged_existing",
-    "queue_id": "VOC-0249"
+    "queue_id": "VOC-0249",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0025",
@@ -547,7 +892,24 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0494"
+    "queue_id": "VOC-0494",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    },
+    "weak_points": [
+      "spelling"
+    ]
   },
   {
     "id": "TOPIK83-LIS-VOC-0026",
@@ -569,7 +931,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0495"
+    "queue_id": "VOC-0495",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0027",
@@ -591,7 +967,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0496"
+    "queue_id": "VOC-0496",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-VOC-0028",
@@ -613,7 +1003,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "VOC-0497"
+    "queue_id": "VOC-0497",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-PHR-0001",
@@ -635,7 +1039,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "PHR-0137"
+    "queue_id": "PHR-0137",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-PHR-0002",
@@ -657,7 +1075,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "PHR-0138"
+    "queue_id": "PHR-0138",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-PHR-0003",
@@ -679,7 +1111,24 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "PHR-0139"
+    "queue_id": "PHR-0139",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    },
+    "weak_points": [
+      "phrase_recall"
+    ]
   },
   {
     "id": "TOPIK83-LIS-PHR-0004",
@@ -701,7 +1150,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "PHR-0140"
+    "queue_id": "PHR-0140",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-PHR-0005",
@@ -723,7 +1186,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "PHR-0141"
+    "queue_id": "PHR-0141",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-PHR-0006",
@@ -745,7 +1222,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "PHR-0142"
+    "queue_id": "PHR-0142",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-PHR-0007",
@@ -767,7 +1258,24 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "PHR-0143"
+    "queue_id": "PHR-0143",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    },
+    "weak_points": [
+      "grammar_phrase"
+    ]
   },
   {
     "id": "TOPIK83-LIS-PHR-0008",
@@ -789,7 +1297,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "PHR-0144"
+    "queue_id": "PHR-0144",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-PHR-0009",
@@ -811,7 +1333,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "PHR-0145"
+    "queue_id": "PHR-0145",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-PHR-0010",
@@ -833,7 +1369,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "PHR-0146"
+    "queue_id": "PHR-0146",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-PHR-0011",
@@ -855,7 +1405,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "PHR-0147"
+    "queue_id": "PHR-0147",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-PHR-0012",
@@ -877,7 +1441,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "PHR-0148"
+    "queue_id": "PHR-0148",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-PHR-0013",
@@ -899,7 +1477,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "PHR-0149"
+    "queue_id": "PHR-0149",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-PHR-0014",
@@ -921,7 +1513,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "PHR-0150"
+    "queue_id": "PHR-0150",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-PHR-0015",
@@ -943,7 +1549,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "PHR-0151"
+    "queue_id": "PHR-0151",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CHK-0001",
@@ -965,7 +1585,24 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CHK-0083"
+    "queue_id": "CHK-0083",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    },
+    "weak_points": [
+      "future_adnominal"
+    ]
   },
   {
     "id": "TOPIK83-LIS-CHK-0002",
@@ -987,7 +1624,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CHK-0084"
+    "queue_id": "CHK-0084",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CHK-0003",
@@ -1009,7 +1660,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CHK-0085"
+    "queue_id": "CHK-0085",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CHK-0004",
@@ -1031,7 +1696,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CHK-0086"
+    "queue_id": "CHK-0086",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CHK-0005",
@@ -1053,7 +1732,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CHK-0087"
+    "queue_id": "CHK-0087",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CHK-0006",
@@ -1075,7 +1768,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CHK-0088"
+    "queue_id": "CHK-0088",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CHK-0007",
@@ -1097,7 +1804,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CHK-0089"
+    "queue_id": "CHK-0089",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CHK-0008",
@@ -1119,7 +1840,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CHK-0090"
+    "queue_id": "CHK-0090",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CHK-0009",
@@ -1141,7 +1876,24 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CHK-0091"
+    "queue_id": "CHK-0091",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    },
+    "weak_points": [
+      "reported_future"
+    ]
   },
   {
     "id": "TOPIK83-LIS-CHK-0010",
@@ -1163,7 +1915,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CHK-0092"
+    "queue_id": "CHK-0092",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CHK-0011",
@@ -1185,7 +1951,24 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CHK-0093"
+    "queue_id": "CHK-0093",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    },
+    "weak_points": [
+      "honorific_benefactive"
+    ]
   },
   {
     "id": "TOPIK83-LIS-CHK-0012",
@@ -1207,7 +1990,24 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CHK-0094"
+    "queue_id": "CHK-0094",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    },
+    "weak_points": [
+      "reason_guess"
+    ]
   },
   {
     "id": "TOPIK83-LIS-CHK-0013",
@@ -1229,7 +2029,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CHK-0095"
+    "queue_id": "CHK-0095",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CHK-0014",
@@ -1251,7 +2065,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CHK-0096"
+    "queue_id": "CHK-0096",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CHK-0015",
@@ -1273,7 +2101,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CHK-0097"
+    "queue_id": "CHK-0097",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-GRM-0001",
@@ -1295,7 +2137,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "GRM-0149"
+    "queue_id": "GRM-0149",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-GRM-0002",
@@ -1317,7 +2173,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "GRM-0150"
+    "queue_id": "GRM-0150",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-GRM-0003",
@@ -1339,7 +2209,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "GRM-0151"
+    "queue_id": "GRM-0151",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-GRM-0004",
@@ -1361,7 +2245,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "GRM-0152"
+    "queue_id": "GRM-0152",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-GRM-0005",
@@ -1383,7 +2281,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "GRM-0153"
+    "queue_id": "GRM-0153",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-GRM-0006",
@@ -1405,7 +2317,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "GRM-0154"
+    "queue_id": "GRM-0154",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-GRM-0007",
@@ -1427,7 +2353,24 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "GRM-0155"
+    "queue_id": "GRM-0155",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    },
+    "weak_points": [
+      "material_marker"
+    ]
   },
   {
     "id": "TOPIK83-LIS-GRM-0008",
@@ -1451,7 +2394,27 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "GRM-0156"
+    "queue_id": "GRM-0156",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    },
+    "weak_points": [
+      "submit_not_upload"
+    ],
+    "review_notes": [
+      "제출할 과제: submit, not upload"
+    ]
   },
   {
     "id": "TOPIK83-LIS-GRM-0009",
@@ -1473,7 +2436,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "merged_existing",
-    "queue_id": "GRM-0041"
+    "queue_id": "GRM-0041",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CON-0001",
@@ -1495,7 +2472,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CON-0180"
+    "queue_id": "CON-0180",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CON-0002",
@@ -1517,7 +2508,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CON-0181"
+    "queue_id": "CON-0181",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CON-0003",
@@ -1539,7 +2544,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CON-0182"
+    "queue_id": "CON-0182",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CON-0004",
@@ -1561,7 +2580,24 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CON-0183"
+    "queue_id": "CON-0183",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    },
+    "weak_points": [
+      "emphasis_particle"
+    ]
   },
   {
     "id": "TOPIK83-LIS-CON-0005",
@@ -1583,7 +2619,21 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CON-0184"
+    "queue_id": "CON-0184",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   },
   {
     "id": "TOPIK83-LIS-CON-0006",
@@ -1605,6 +2655,20 @@
     "next_review": "2026-06-19",
     "r_stage": "R0",
     "queue_status": "added_new",
-    "queue_id": "CON-0185"
+    "queue_id": "CON-0185",
+    "learning_status": "first_pass_completed",
+    "study_date": "2026-06-18",
+    "recognition_passed": true,
+    "active_recall_partial": true,
+    "needs_spaced_review": true,
+    "study_status": {
+      "first_pass_completed": true,
+      "first_pass_date": "2026-06-18",
+      "mode": "recognition_and_partial_recall",
+      "needs_review": true,
+      "recognition_passed": true,
+      "active_recall_partial": true,
+      "source": "TOPIK_II_083_listening_q3_q14"
+    }
   }
 ]
