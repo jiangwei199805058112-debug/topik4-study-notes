@@ -103,14 +103,14 @@
 | VOC-0062 | vocabulary | 기뻐하다 | 高兴 | `vocabulary/2026-06-16_news_title_words.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0063 | vocabulary | 기술 | 技术 | `vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0064 | vocabulary | 기습 | 突袭、突然发生 | `vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R0 | 0 | 0 |  | 待安排 | active |
-| VOC-0065 | vocabulary | 기지개 | 伸懒腰；기지개를 켜다=伸懒腰/开始恢复活力 | `audit/2026-06-16_korean_chinese_translation_audit.md；review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| VOC-0065 | vocabulary | 기지개 | 伸懒腰；기지개를 켜다=伸懒腰/开始恢复活力 | `audit/2026-06-16_korean_chinese_translation_audit.md；review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R3 | 2 | 1 | 2026-06-20 | 2026-06-23 | active |
 | VOC-0066 | vocabulary | 기회 | 机会 | `review/2026-06-16_daily_words_grammar_srs.md` | B | R3 | 2 | 0 | 2026-06-18 | 2026-06-21 | active |
 | VOC-0067 | vocabulary | 긴장되다 | 紧张 | `vocabulary/vocabulary_collection_rules.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0068 | vocabulary | 길다 | 长 | `vocabulary/conversation_unknown_words_supplement.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0069 | vocabulary | 껑충 | 猛增、大幅上升 | `audit/2026-06-16_korean_chinese_translation_audit.md；review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | B | R3 | 2 | 0 | 2026-06-18 | 2026-06-21 | active |
 | VOC-0070 | vocabulary | 꽃망울 | 花苞 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0071 | vocabulary | 꽤 | 相当、挺 | `vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| VOC-0072 | vocabulary | 꾸준히 | 持续地、坚持地 | `review/2026-06-16_daily_words_grammar_srs.md；vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| VOC-0072 | vocabulary | 꾸준히 | 持续地、坚持地 | `review/2026-06-16_daily_words_grammar_srs.md；vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md` | C | R3 | 2 | 1 | 2026-06-20 | 2026-06-23 | active |
 | VOC-0073 | vocabulary | 나뭇잎 | 树的叶子 | `vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0074 | vocabulary | 나오다 | 出现、考到 | `vocabulary/2026-06-05_training_problem_words.md；vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0075 | vocabulary | 나중에는 | 后来、之后 | `vocabulary/2026-06-05_training_problem_words.md` | C | R0 | 0 | 0 |  | 待安排 | active |
@@ -118,7 +118,7 @@
 | VOC-0077 | vocabulary | 나타내다 | 表现、呈现、表示 | `vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0078 | vocabulary | 날짜 | 日期 | `vocabulary/2026-06-05_question_review_words.md；vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0079 | vocabulary | 낡다 | 旧、老旧 | `mistakes/topik60_reading_01_04.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| VOC-0080 | vocabulary | 낮아지다 | 变低 | `review/2026-06-16_yesterday_review_pack.md` | C | R2 | 1 | 0 | 2026-06-18 | 2026-06-19 | active |
+| VOC-0080 | vocabulary | 낮아지다 | 变低 | `review/2026-06-16_yesterday_review_pack.md` | C | R3 | 2 | 0 | 2026-06-20 | 2026-06-23 | active |
 | VOC-0081 | vocabulary | 내려받다 | 下载 | `vocabulary/vocabulary_collection_rules.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0082 | vocabulary | 내세우다 | 推举、推出 | `review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0083 | vocabulary | 내용 | 内容 | `vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
@@ -137,7 +137,7 @@
 | VOC-0096 | vocabulary | 늘다 | 增加、变多 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md；vocabulary/2026-06-15_reading_21_22_words.md；vocabulary/2026-06-16_news_title_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0097 | vocabulary | 늘어나다 | 增加、增长 | `review/2026-06-16_yesterday_review_pack.md；vocabulary/2026-06-16_news_title_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0098 | vocabulary | 늦다 | 晚、迟到 | `vocabulary/2026-06-03_sentence_training_words.md；vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| VOC-0099 | vocabulary | 다름없다 | 没区别、无异于 | `vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 2 | 2026-06-18 | 2026-06-18 | high-frequency |
+| VOC-0099 | vocabulary | 다름없다 | 没区别、无异于 | `vocabulary/all_unknown_words_master.md` | C | R2 | 1 | 2 | 2026-06-20 | 2026-06-21 | active |
 | VOC-0100 | vocabulary | 다리 | 腿、桥 | `vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0101 | vocabulary | 단순히 | 单纯地 | `vocabulary/2026-06-05_review_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0102 | vocabulary | 단점 | 缺点 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
@@ -181,7 +181,7 @@
 | VOC-0140 | vocabulary | 막히다 | 堵住、堵车 | `review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0141 | vocabulary | 만약 | 如果、假如 | `plan/review_system.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0142 | vocabulary | 많아지다 | 数量变多 | `review/2026-06-16_yesterday_review_pack.md；vocabulary/2026-06-03_sentence_training_words.md；vocabulary/2026-06-16_news_title_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| VOC-0143 | vocabulary | 맡기다 | 交给别人处理、托付 | `vocabulary/2026-06-03_sentence_training_words.md；vocabulary/2026-06-05_question_review_words.md；vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| VOC-0143 | vocabulary | 맡기다 | 交给别人处理、托付 | `vocabulary/2026-06-03_sentence_training_words.md；vocabulary/2026-06-05_question_review_words.md；vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R3 | 2 | 1 | 2026-06-20 | 2026-06-23 | active |
 | VOC-0144 | vocabulary | 매년 | 每年 | `vocabulary/2026-06-16_news_title_options_words_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0145 | vocabulary | 머리 | 头、头发 | `vocabulary/conversation_unknown_words_supplement.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0146 | vocabulary | 며칠 | 几天 | `vocabulary/conversation_unknown_words_supplement.md` | C | R0 | 0 | 0 |  | 待安排 | active |
@@ -220,7 +220,7 @@
 | VOC-0179 | vocabulary | 베스트셀러 | 畅销书 | `review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0180 | vocabulary | 변하다 | 变化、变成 | `vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0181 | vocabulary | 변화하다 | 变化 | `vocabulary/all_unknown_words_master.md` | B | R3 | 2 | 0 | 2026-06-18 | 2026-06-21 | active |
-| VOC-0182 | vocabulary | 보관하다 | 保管 | `vocabulary/all_unknown_words_master.md`；`data/topik/listening/083/learning_items.json` | C | R1 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
+| VOC-0182 | vocabulary | 보관하다 | 保管 | `vocabulary/all_unknown_words_master.md`；`data/topik/listening/083/learning_items.json` | C | R2 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
 | VOC-0183 | vocabulary | 복구 | 恢复、修复、灾后恢复 | `audit/2026-06-16_korean_chinese_translation_audit.md；review/2026-06-16_late_corrections_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0184 | vocabulary | 복습하다 | 复习 | `vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0185 | vocabulary | 복제품 | 复制出来的东西 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md；vocabulary/2026-06-15_reading_21_22_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
@@ -242,7 +242,7 @@
 | VOC-0201 | vocabulary | 사치품 | 奢侈品 | `vocabulary/conversation_unknown_words_supplement.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0202 | vocabulary | 살리다 | 救活、搞活 | `vocabulary/conversation_unknown_words_supplement.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0203 | vocabulary | 살아나기 | 复苏这件事；开始复苏里的名词形 | `review/2026-06-16_late_corrections_srs.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| VOC-0204 | vocabulary | 살아나다 | 复苏、恢复活力、重新好起来 | `audit/2026-06-16_korean_chinese_translation_audit.md；review/2026-06-16_late_corrections_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| VOC-0204 | vocabulary | 살아나다 | 复苏、恢复活力、重新好起来 | `audit/2026-06-16_korean_chinese_translation_audit.md；review/2026-06-16_late_corrections_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R3 | 2 | 1 | 2026-06-20 | 2026-06-23 | active |
 | VOC-0205 | vocabulary | 상 | 奖 | `vocabulary/2026-06-16_news_title_words.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0206 | vocabulary | 상승세 | 上升趋势 | `vocabulary/2026-06-16_news_title_words.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0207 | vocabulary | 상승하다 | 上升 | `review/2026-06-16_yesterday_review_pack.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
@@ -256,7 +256,7 @@
 | VOC-0215 | vocabulary | 선택지 | 选项 | `daily/2026-06-07.md；vocabulary/2026-06-05_question_review_words.md；vocabulary/2026-06-05_training_problem_words.md；vocabulary/conversation_unknown_words_supplement.md` | A | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0216 | vocabulary | 선택하다 | 从多个中挑选 | `vocabulary/2026-06-05_question_review_words.md；vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0217 | vocabulary | 선풍기 | 电风扇 | `vocabulary/2026-06-05_question_review_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| VOC-0218 | vocabulary | 설득하다 | 说服 | `vocabulary/all_unknown_words_master.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| VOC-0218 | vocabulary | 설득하다 | 说服 | `vocabulary/all_unknown_words_master.md` | C | R3 | 2 | 1 | 2026-06-20 | 2026-06-23 | active |
 | VOC-0219 | vocabulary | 설명하다 | 把内容说清楚 | `vocabulary/2026-06-03_sentence_training_words.md；vocabulary/conversation_unknown_words_supplement.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0220 | vocabulary | 성적 | 学习/考试结果 | `vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0221 | vocabulary | 세탁소 | 洗衣服的地方 | `vocabulary/2026-06-05_question_review_words.md；vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
@@ -280,21 +280,21 @@
 | VOC-0239 | vocabulary | 시계 | 手表、钟表 | `vocabulary/2026-06-05_question_review_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0240 | vocabulary | 시민 | 市民 | `practice/2026-06-16_final_recycle_article_feedback.md；review/2026-06-16_late_corrections_srs.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0241 | vocabulary | 시청률 | 收视率 | `review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| VOC-0242 | vocabulary | 식습관 | 饮食习惯 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| VOC-0242 | vocabulary | 식습관 | 饮食习惯 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R3 | 2 | 1 | 2026-06-20 | 2026-06-23 | active |
 | VOC-0243 | vocabulary | 신다 | 穿脚上的东西 | `vocabulary/2026-06-03_sentence_training_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0244 | vocabulary | 신뢰 | 信任 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0245 | vocabulary | 신선하다 | 新鲜 | `vocabulary/2026-06-05_question_review_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0246 | vocabulary | 신청서 | 申请书、申请表 | `vocabulary/2026-06-05_question_review_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0247 | vocabulary | 실력 | 实际能力 | `vocabulary/2026-06-03_sentence_training_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0248 | vocabulary | 실수하다 | 犯错、失误 | `vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| VOC-0249 | vocabulary | 실제 | 实际 | `vocabulary/2026-06-05_review_words.md`；`data/topik/listening/083/learning_items.json` | C | R1 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
+| VOC-0249 | vocabulary | 실제 | 实际 | `vocabulary/2026-06-05_review_words.md`；`data/topik/listening/083/learning_items.json` | C | R2 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
 | VOC-0250 | vocabulary | 실제로 | 实际地 | `vocabulary/2026-06-05_review_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0251 | vocabulary | 실패하다 | 失败 | `review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0252 | vocabulary | 실패했다 | 失败了 | `vocabulary/2026-06-16_news_title_options_words_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0253 | vocabulary | 심다 | 种 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0254 | vocabulary | 싹 | 芽 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0255 | vocabulary | 싹쓸이 | 包揽、横扫 | `vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R0 | 0 | 0 |  | 待安排 | active |
-| VOC-0256 | vocabulary | 쏟아지다 | 倾泻、下得很大 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_late_corrections_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| VOC-0256 | vocabulary | 쏟아지다 | 倾泻、下得很大 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_late_corrections_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R1 | 0 | 1 | 2026-06-20 | 2026-06-21 | high-frequency |
 | VOC-0257 | vocabulary | 쏟아진 | 倾泻下来的、下得很大的 | `review/2026-06-16_late_corrections_srs.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0258 | vocabulary | 쓰러지다 | 倒下、晕倒 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0259 | vocabulary | 쓰이다 | 被使用、被用作 | `vocabulary/2026-06-05_review_words.md；vocabulary/2026-06-05_training_problem_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
@@ -311,7 +311,7 @@
 | VOC-0270 | vocabulary | 약속하다 | 约定、承诺 | `review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0271 | vocabulary | 어려운 | 难的 | `vocabulary/2026-06-05_training_problem_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0272 | vocabulary | 어렵다 | 难 | `vocabulary/2026-06-05_training_problem_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| VOC-0273 | vocabulary | 언제든지 | 任何时候都 | `vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| VOC-0273 | vocabulary | 언제든지 | 任何时候都 | `vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R3 | 2 | 1 | 2026-06-20 | 2026-06-23 | active |
 | VOC-0274 | vocabulary | 엉금엉금 | 慢吞吞地、爬行似地 | `review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | B | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0275 | vocabulary | 여행사 | 旅行社 | `vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0276 | vocabulary | 역 | 车站 | `mistakes/topik60_reading_01_04.md；vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
@@ -324,7 +324,7 @@
 | VOC-0283 | vocabulary | 예매 | 预先购买/预约 | `vocabulary/2026-06-05_question_review_words.md；vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0284 | vocabulary | 예매하다 | 预订、预购票 | `vocabulary/2026-06-03_sentence_training_words.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0285 | vocabulary | 예상하다 | 预测、预想、预计 | `vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| VOC-0286 | vocabulary | 오답 | 错题、错误答案 | `vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| VOC-0286 | vocabulary | 오답 | 错题、错误答案 | `vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R1 | 0 | 2 | 2026-06-20 | 2026-06-21 | high-frequency |
 | VOC-0287 | vocabulary | 오래 | 长久地 | `mistakes/topik60_reading_01_04.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0288 | vocabulary | 오랜만에 | 久违地 | `vocabulary/2026-06-16_news_title_options_words_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0289 | vocabulary | 오르다 | 往上升、上涨 | `review/2026-06-16_yesterday_review_pack.md；vocabulary/2026-06-03_sentence_training_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
@@ -365,7 +365,7 @@
 | VOC-0324 | vocabulary | 이용하다 | 利用、使用 | `vocabulary/conversation_unknown_words_supplement.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0325 | vocabulary | 이타적 | 利他的 | `vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0326 | vocabulary | 익숙하다 | 熟悉、习惯 | `vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| VOC-0327 | vocabulary | 익히다 | 通过反复练习变熟 | `README.md；vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| VOC-0327 | vocabulary | 익히다 | 通过反复练习变熟 | `README.md；vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R3 | 2 | 1 | 2026-06-20 | 2026-06-23 | active |
 | VOC-0328 | vocabulary | 인기 | 人气、受欢迎 | `vocabulary/2026-06-16_news_title_options_words_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0329 | vocabulary | 인원 | 人数 | `vocabulary/2026-06-05_question_review_words.md；vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0330 | vocabulary | 인터넷 | 互联网 | `vocabulary/conversation_unknown_words_supplement.md` | C | R0 | 0 | 0 |  | 待安排 | active |
@@ -388,7 +388,7 @@
 | VOC-0347 | vocabulary | 적당하다 | 适当、合适 | `vocabulary/conversation_unknown_words_supplement.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | VOC-0348 | vocabulary | 적어지다 | 变少 | `review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0349 | vocabulary | 전개 | 展开、发展 | `vocabulary/2026-06-05_question_review_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| VOC-0350 | vocabulary | 전문가 | 专门领域的人 | `vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | B | R2 | 1 | 0 | 2026-06-18 | 2026-06-19 | active |
+| VOC-0350 | vocabulary | 전문가 | 专门领域的人 | `vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | B | R3 | 2 | 0 | 2026-06-20 | 2026-06-23 | active |
 | VOC-0351 | vocabulary | 전시임을 | “是展览”这一事实 | `vocabulary/2026-06-15_reading_21_22_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0352 | vocabulary | 전혀 | 完全没有 | `vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | VOC-0353 | vocabulary | 절차 | 手续、程序 | `vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
@@ -569,7 +569,7 @@
 | PHR-0057 | phrases | 병원을 찾다 | 去医院、前往医院 | `review/2026-06-16_late_corrections_srs.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | PHR-0058 | phrases | 복제품 전시임을 밝히다 | 说明这是复制品展览 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | PHR-0059 | phrases | 봄이 찾아왔다 | 春天来了。 | `review/2026-06-16_late_corrections_srs.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| PHR-0060 | phrases | 불만을 쏟아 내다 | 表达不满、倾吐不满 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md；vocabulary/2026-06-15_reading_21_22_words.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| PHR-0060 | phrases | 불만을 쏟아 내다 | 表达不满、倾吐不满 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md；vocabulary/2026-06-15_reading_21_22_words.md` | C | R3 | 2 | 1 | 2026-06-20 | 2026-06-23 | active |
 | PHR-0061 | phrases | 불편을 겪다 | 遇到不便 | `review/2026-06-16_late_corrections_srs.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | PHR-0062 | phrases | 비가 올 때마다 | 每次下雨 | `practice/2026-06-16_final_recycle_article_feedback.md；review/2026-06-16_late_corrections_srs.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | PHR-0063 | phrases | 새 옷처럼 | 像新衣服一样 | `vocabulary/2026-06-05_question_review_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
@@ -578,7 +578,7 @@
 | PHR-0066 | phrases | 성적을 올리다 | 让成绩上升 | `vocabulary/2026-06-04_review_words.md；vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | PHR-0067 | phrases | 세탁소에 맡기다 | 交给洗衣店处理 | `vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | PHR-0068 | phrases | 속 터지다 | 急得要命、憋闷 | `audit/2026-06-16_korean_chinese_translation_audit.md；review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| PHR-0069 | phrases | 손을 맞잡다 | 双方把手握在一起 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md；vocabulary/2026-06-15_reading_21_22_words.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| PHR-0069 | phrases | 손을 맞잡다 | 双方把手握在一起 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md；vocabulary/2026-06-15_reading_21_22_words.md` | C | R3 | 2 | 1 | 2026-06-20 | 2026-06-23 | active |
 | PHR-0070 | phrases | 손해를 보다 | 吃亏、亏损 | `vocabulary/2026-06-04_review_words.md；vocabulary/all_daily_words.md；vocabulary/all_unknown_words_master.md；vocabulary/wrong_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | PHR-0071 | phrases | 수밖에 없다 | 除此之外没有办法 | `vocabulary/2026-06-05_review_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | PHR-0072 | phrases | 수상 유력 | 获奖可能性大 | `review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | B | R1 | 0 | 0 |  | 待安排 | high-frequency |
@@ -650,7 +650,7 @@
 | CHK-0002 | chunks | 갑자기 쏟아진 비 | 突然下起的大雨 | `review/2026-06-16_late_corrections_srs.md` | B | R3 | 2 | 0 | 2026-06-18 | 2026-06-21 | active |
 | CHK-0003 | chunks | 거래가 줄어들고 있다 | 交易正在减少 | `vocabulary/2026-06-16_news_title_words.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | CHK-0004 | chunks | 거래는 줄어들고 있다 | 交易正在减少 | `vocabulary/2026-06-16_news_title_options_words_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
-| CHK-0005 | chunks | 걱정이 커지고 있다 | 担心正在增加 | `review/2026-06-16_late_corrections_srs.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| CHK-0005 | chunks | 걱정이 커지고 있다 | 担心正在增加 | `review/2026-06-16_late_corrections_srs.md` | C | R3 | 2 | 1 | 2026-06-20 | 2026-06-23 | active |
 | CHK-0006 | chunks | 결제하다 | 完成付款 | `vocabulary/2026-06-04_review_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | CHK-0007 | chunks | 곤란을 겪다 | 遇到困难 | `vocabulary/2026-06-16_news_title_options_words_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | CHK-0008 | chunks | 공연장이 혼잡해지다 | 演出场馆变得拥挤/混乱 | `review/2026-06-16_late_corrections_srs.md` | B | R3 | 2 | 0 | 2026-06-18 | 2026-06-21 | active |
@@ -702,7 +702,7 @@
 | CHK-0054 | chunks | 시장이 살아나기 시작했다 | 市场开始复苏 | `vocabulary/2026-06-16_news_title_words.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | CHK-0055 | chunks | 시청률 1위가 되다 | 成为收视率第一 | `vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | CHK-0056 | chunks | 실수하다 | 做错 | `vocabulary/2026-06-04_review_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| CHK-0057 | chunks | 실제 변화가 나타나야 한다 | 必须出现实际变化 | `practice/2026-06-16_final_recycle_article_feedback.md；review/2026-06-16_late_corrections_srs.md` | C | R1 | 0 | 2 | 2026-06-18 | 2026-06-18 | high-frequency |
+| CHK-0057 | chunks | 실제 변화가 나타나야 한다 | 必须出现实际变化 | `practice/2026-06-16_final_recycle_article_feedback.md；review/2026-06-16_late_corrections_srs.md` | C | R2 | 1 | 2 | 2026-06-20 | 2026-06-21 | active |
 | CHK-0058 | chunks | 쏟아진 비 | 倾盆而下的雨、下得很大的雨 | `review/2026-06-16_late_corrections_srs.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | CHK-0059 | chunks | 얼마 안 되다 | 数量或时间不多 | `mistakes/topik64_reading_03_04.md；vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | CHK-0060 | chunks | 예약 상담이 대폭 늘었다 | 预约咨询大幅增加 | `vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R0 | 0 | 0 |  | 待安排 | active |
@@ -737,14 +737,14 @@
 | GRM-0007 | grammar | -(으)ㄴ 후 | ……之后 | `grammar/01_first_week_core_grammar.md；grammar/similar_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0008 | grammar | -(으)ㄹ 것 같다 | 好像会…… | `mistakes/topik91_reading_01_04.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0009 | grammar | -(으)ㄹ 때 | ……的时候 | `grammar/01_first_week_core_grammar.md；grammar/similar_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
-| GRM-0010 | grammar | -(으)ㄹ 때마다 | 每次……的时候都 | `grammar/01_first_week_core_grammar.md；grammar/2026-06-03_sentence_training_grammar.md；grammar/similar_grammar.md；mistakes/topik60_reading_01_04.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| GRM-0010 | grammar | -(으)ㄹ 때마다 | 每次……的时候都 | `grammar/01_first_week_core_grammar.md；grammar/2026-06-03_sentence_training_grammar.md；grammar/similar_grammar.md；mistakes/topik60_reading_01_04.md` | C | R3 | 2 | 1 | 2026-06-20 | 2026-06-23 | active |
 | GRM-0011 | grammar | -(으)ㄹ 리가 없다 | 不可能…… | `grammar/01_first_week_core_grammar.md；grammar/2026-06-03_sentence_training_grammar.md；grammar/2026-06-04_review_grammar.md；grammar/similar_grammar.md` | B | R3 | 2 | 0 | 2026-06-18 | 2026-06-21 | active |
 | GRM-0012 | grammar | -(으)ㄹ 만하다 + -아서/어서 | 值得…… / 可以……，因为…… | `mistakes/topik60_reading_01_04.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0013 | grammar | -(으)ㄹ 뻔했다 | 差点…… | `grammar/01_first_week_core_grammar.md；grammar/similar_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0014 | grammar | -(으)ㄹ 수도 있다 | 也可能……，有可能…… | `grammar/01_first_week_core_grammar.md；grammar/2026-06-03_sentence_training_grammar.md；grammar/similar_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0015 | grammar | -(으)ㄹ 수밖에 없다 | 不得不…… | `grammar/grammar_sorted_index.md；mistakes/topik91_reading_01_04.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0016 | grammar | -(으)ㄹ지도 모르다 | 也许……，可能…… | `grammar/01_first_week_core_grammar.md；grammar/2026-06-03_sentence_training_grammar.md；grammar/similar_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
-| GRM-0017 | grammar | -(으)려면 | 如果想…… | `grammar/01_first_week_core_grammar.md；grammar/grammar_sorted_index.md；grammar/similar_grammar.md；mistakes/topik60_reading_01_04.md；mistakes/topik91_reading_01_04.md；review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 1 | 2026-06-18 | 2026-06-18 | high-frequency |
+| GRM-0017 | grammar | -(으)려면 | 如果想…… | `grammar/01_first_week_core_grammar.md；grammar/grammar_sorted_index.md；grammar/similar_grammar.md；mistakes/topik60_reading_01_04.md；mistakes/topik91_reading_01_04.md；review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 2 | 2026-06-20 | 2026-06-21 | high-frequency |
 | GRM-0018 | grammar | -(으)려면, 따라 하다, -아/어야 하다 | 如果想纠正发音，就要多听并跟读。 | `practice/grammar_reaction_training.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0019 | grammar | -(으)면 되다 | 只要……就行 | `grammar/01_first_week_core_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0020 | grammar | -(으)세요 | 请…… | `grammar/01_first_week_core_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
@@ -752,7 +752,7 @@
 | GRM-0022 | grammar | -거나 | 待确认 | `grammar/01_first_week_core_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0023 | grammar | -거나 마찬가지이다 | 和……差不多 | `grammar/01_first_week_core_grammar.md；grammar/2026-06-03_sentence_training_grammar.md；grammar/2026-06-04_review_grammar.md；grammar/similar_grammar.md；mistakes/topik91_reading_01_04.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0024 | grammar | -거든 | 如果累的话，今天早点休息。 | `grammar/01_first_week_core_grammar.md；grammar/grammar_sorted_index.md；mistakes/topik91_reading_01_04.md；practice/grammar_reaction_training.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| GRM-0025 | grammar | -게 되다 | 变得……；最终……；得知…… | `mistakes/topik60_reading_01_04.md；plan/2026-06-15_topik4_daily_plan.md；review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 2 | 2026-06-18 | 2026-06-18 | high-frequency |
+| GRM-0025 | grammar | -게 되다 | 变得……；最终……；得知…… | `mistakes/topik60_reading_01_04.md；plan/2026-06-15_topik4_daily_plan.md；review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 3 | 2026-06-20 | 2026-06-21 | high-frequency |
 | GRM-0026 | grammar | -고 나서 | 做完A之后B | `grammar/01_first_week_core_grammar.md；grammar/grammar_sorted_index.md；grammar/similar_grammar.md；mistakes/topik91_reading_01_04.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0027 | grammar | -고 나서, 풀다 | 听完说明以后，又做了一遍题。 | `practice/grammar_reaction_training.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0028 | grammar | -고 나서야 | 听完老师的讲解以后，才理解了语法。 | `grammar/01_first_week_core_grammar.md；grammar/grammar_sorted_index.md；grammar/similar_grammar.md；practice/grammar_reaction_training.md` | C | R0 | 0 | 0 |  | 待安排 | active |
@@ -764,23 +764,23 @@
 | GRM-0034 | grammar | -기 때문에 | 因为…… | `grammar/similar_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0035 | grammar | -기 시작하다 | 开始…… | `review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | B | R3 | 2 | 0 | 2026-06-18 | 2026-06-21 | active |
 | GRM-0036 | grammar | -기 위해서 | 为了…… | `grammar/01_first_week_core_grammar.md；grammar/grammar_sorted_index.md；grammar/similar_grammar.md；mistakes/topik91_reading_01_04.md；plan/2026-06-15_topik4_daily_plan.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| GRM-0037 | grammar | -기로 하다 | 决定…… | `review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
-| GRM-0038 | grammar | -기만 하면 | 只要一……就…… | `grammar/01_first_week_core_grammar.md；grammar/2026-06-03_sentence_training_grammar.md；grammar/similar_grammar.md；mistakes/topik60_reading_01_04.md` | C | R2 | 1 | 0 | 2026-06-18 | 2026-06-19 | active |
+| GRM-0037 | grammar | -기로 하다 | 决定…… | `review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R1 | 0 | 2 | 2026-06-20 | 2026-06-21 | high-frequency |
+| GRM-0038 | grammar | -기만 하면 | 只要一……就…… | `grammar/01_first_week_core_grammar.md；grammar/2026-06-03_sentence_training_grammar.md；grammar/similar_grammar.md；mistakes/topik60_reading_01_04.md` | C | R3 | 2 | 0 | 2026-06-20 | 2026-06-23 | active |
 | GRM-0039 | grammar | -나 보다 | 看来……；好像…… | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0040 | grammar | -느라고 | 因忙着A导致B不好 | `grammar/similar_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
-| GRM-0041 | grammar | -는 대로 | 一……就…… / 按照…… | `mistakes/topik60_reading_01_04.md`；`data/topik/listening/083/learning_items.json` | C | R1 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
+| GRM-0041 | grammar | -는 대로 | 一……就…… / 按照…… | `mistakes/topik60_reading_01_04.md`；`data/topik/listening/083/learning_items.json` | C | R1 | 0 | 0 | 2026-06-20 | 2026-06-21 | high-frequency |
 | GRM-0042 | grammar | -는 동안 | 在……期间 | `mistakes/topik60_reading_01_04.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0043 | grammar | -는 동안에 | 在……期间 | `grammar/01_first_week_core_grammar.md；grammar/similar_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0044 | grammar | -는 바람에 | 因为意外A导致坏结果 | `grammar/2026-06-03_sentence_training_grammar.md；grammar/similar_grammar.md；mistakes/topik60_reading_01_04.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0045 | grammar | -는 반면에 | 相反；另一方面 | `plan/2026-06-15_topik4_daily_plan.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0046 | grammar | -는 탓에 | 因为……导致坏结果 | `mistakes/topik60_reading_01_04.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0047 | grammar | -는/은 탓에 | 因为……导致坏结果 | `grammar/01_first_week_core_grammar.md；grammar/2026-06-03_sentence_training_grammar.md；grammar/similar_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
-| GRM-0048 | grammar | -다가 | 做某事的过程中发生另一件事 | `grammar/01_first_week_core_grammar.md；grammar/2026-06-03_sentence_training_grammar.md；grammar/similar_grammar.md；mistakes/topik60_reading_01_04.md；review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 2 | 2026-06-18 | 2026-06-18 | high-frequency |
+| GRM-0048 | grammar | -다가 | 做某事的过程中发生另一件事 | `grammar/01_first_week_core_grammar.md；grammar/2026-06-03_sentence_training_grammar.md；grammar/similar_grammar.md；mistakes/topik60_reading_01_04.md；review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R2 | 1 | 2 | 2026-06-20 | 2026-06-21 | active |
 | GRM-0049 | grammar | -다가, 우연히 | 待确认 | `practice/2026-06-15_reading_21_24_translation_training.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0050 | grammar | -다고 해도 | 即使说…… / 即使……也 | `grammar/2026-06-03_sentence_training_grammar.md；grammar/similar_grammar.md；mistakes/topik60_reading_01_04.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0051 | grammar | -다는 건지 | 到底是说……这件事；到底怎么会…… | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0052 | grammar | -대로 | 按照…… / 如……一样 | `grammar/01_first_week_core_grammar.md；grammar/similar_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
-| GRM-0053 | grammar | -더니 | 前面发生后，后面出现变化或结果 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| GRM-0053 | grammar | -더니 | 前面发生后，后面出现变化或结果 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R3 | 2 | 1 | 2026-06-20 | 2026-06-23 | active |
 | GRM-0054 | grammar | -더라도 | 即使……也…… | `review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0055 | grammar | -더라도, 연휴 기간, -려는 | 待确认 | `practice/2026-06-16_news_words_grammar_sentence_drill.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0056 | grammar | -도록 | 为了使……；到……程度 | `plan/2026-06-15_topik4_daily_plan.md` | C | R0 | 0 | 0 |  | 待安排 | active |
@@ -792,12 +792,12 @@
 | GRM-0062 | grammar | -면서 | 一边……一边…… / 随着…… | `grammar/2026-06-03_sentence_training_grammar.md；grammar/2026-06-05_review_grammar.md；review/2026-06-16_daily_words_grammar_srs.md；vocabulary/2026-06-05_review_words.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0063 | grammar | -아/어 가다 | 逐渐……下去 | `grammar/01_first_week_core_grammar.md；grammar/similar_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0064 | grammar | -아/어 놓다 | 做完某动作，并让结果保持 | `practice/2026-06-15_reading_21_24_translation_training.md；review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| GRM-0065 | grammar | -아/어 보니 | 做了之后发现…… | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 1 | 2026-06-18 | 2026-06-19 | high-frequency |
+| GRM-0065 | grammar | -아/어 보니 | 做了之后发现…… | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R2 | 1 | 1 | 2026-06-20 | 2026-06-21 | active |
 | GRM-0066 | grammar | -아/어 보니, 쓰러져 있다 | 待确认 | `practice/2026-06-15_reading_21_24_translation_training.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0067 | grammar | -아/어 보니까 | 试着做之后发现…… | `mistakes/topik60_reading_01_04.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0068 | grammar | -아/어 보다 | 试着做/做过 | `mistakes/topik91_reading_01_04.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0069 | grammar | -아/어 봐야 | 即使试着做也……，多带“没用” | `grammar/similar_grammar.md；mistakes/topik60_reading_01_04.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| GRM-0070 | grammar | -아/어 있다 | 动作完成后的状态持续 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| GRM-0070 | grammar | -아/어 있다 | 动作完成后的状态持续 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R3 | 2 | 1 | 2026-06-20 | 2026-06-23 | active |
 | GRM-0071 | grammar | -아/어도 | 即使……也…… | `grammar/similar_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0072 | grammar | -아/어도 되다 | 可以…… | `grammar/similar_grammar.md；mistakes/topik60_reading_01_04.md；mistakes/topik91_reading_01_04.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0073 | grammar | -아/어서 | 因为……所以…… | `grammar/grammar_sorted_index.md` | C | R0 | 0 | 0 |  | 待安排 | active |
@@ -820,7 +820,7 @@
 | GRM-0090 | grammar | A-아/어지다 | 变得…… | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0091 | grammar | A-아/어지면서 | 随着变得…… | `grammar/similar_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0092 | grammar | A/V-(으)ㄴ/는 N | ……的N | `grammar/2026-06-05_question_review_grammar.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| GRM-0093 | grammar | N에 대한 N | 对……的…… | `audit/2026-06-16_korean_chinese_translation_audit.md；review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R1 | 0 | 0 | 2026-06-18 | 2026-06-19 | high-frequency |
+| GRM-0093 | grammar | N에 대한 N | 对……的…… | `audit/2026-06-16_korean_chinese_translation_audit.md；review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md；vocabulary/2026-06-16_news_title_options_words_grammar.md；vocabulary/2026-06-16_news_title_words.md` | C | R2 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
 | GRM-0094 | grammar | N에 대한 N, 관심이 높아지다, -지만, 판매량 | 待确认 | `practice/2026-06-16_news_words_grammar_sentence_drill.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | active |
 | GRM-0095 | grammar | N이나 마찬가지이다 | 待确认 | `mistakes/topik64_reading_03_04.md` | 待确认 | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0096 | grammar | N이나 마찬가지이다 / V-(으)ㄴ 거나 마찬가지이다 | 和……差不多 | `grammar/grammar_sorted_index.md` | C | R0 | 0 | 0 |  | 待安排 | active |
@@ -877,10 +877,10 @@
 | GRM-0147 | grammar | 찾아와서야 알게 되다 | 到了之后才知道 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | GRM-0148 | grammar | 행태, 우려하다, -ㄹ 수 있다 | 待确认 | `practice/2026-06-15_reading_21_24_translation_training.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | active |
 | CON-0001 | contrast | -06-16 晚间补充回炉与易混点整理 | 待确认 | `review/2026-06-16_late_corrections_srs.md` | 待确认 | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| CON-0002 | contrast | -으니 vs -아/어서 | 待确认 | `grammar/grammar_sorted_index.md` | C | R1 | 0 | 2 | 2026-06-18 | 2026-06-18 | high-frequency |
+| CON-0002 | contrast | -으니 vs -아/어서 | 待确认 | `grammar/grammar_sorted_index.md` | C | R1 | 0 | 2 | 2026-06-20 | 2026-06-21 | high-frequency |
 | CON-0003 | contrast | N일 뿐이다 vs N인 셈이다 | 待确认 | `grammar/grammar_sorted_index.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | active |
 | CON-0004 | contrast | 必须区分：금리 vs 환율 | 待确认 | `review/2026-06-16_late_corrections_srs.md` | B | R3 | 2 | 0 | 2026-06-18 | 2026-06-21 | active |
-| CON-0005 | contrast | 必须区分：모으다 vs 몰리다 | 待确认 | `review/2026-06-16_late_corrections_srs.md` | C | R2 | 1 | 0 | 2026-06-18 | 2026-06-19 | active |
+| CON-0005 | contrast | 必须区分：모으다 vs 몰리다 | 待确认 | `review/2026-06-16_late_corrections_srs.md` | C | R3 | 2 | 0 | 2026-06-20 | 2026-06-23 | active |
 | CON-0006 | contrast | 必须区分：찾아오다 vs 찾다 | 待确认 | `review/2026-06-16_late_corrections_srs.md` | B | R3 | 2 | 0 | 2026-06-18 | 2026-06-21 | active |
 | CON-0007 | contrast | 가능성이 높다 | 可能性高 | `vocabulary/2026-06-16_news_title_options_words_grammar.md` | C | R0 | 0 | 0 |  | 待安排 | active |
 | CON-0008 | contrast | 가만히 | 静静地、不动地 | `vocabulary/all_unknown_words_master.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
@@ -1071,7 +1071,7 @@
 | AUD-0014 | audit | 발생하다 | 发生、产生 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | AUD-0015 | audit | 복구가 잘 진행되지 않아 주민들이 답답해하고 있다 | 因为恢复进展不顺利，居民们感到郁闷/着急。 | `review/2026-06-16_late_corrections_srs.md` | B | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | AUD-0016 | audit | 부족하다 | 不足、不够 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | B | R3 | 2 | 0 | 2026-06-18 | 2026-06-21 | active |
-| AUD-0017 | audit | 분명히 | 明确地、清楚地 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R2 | 1 | 1 | 2026-06-18 | 2026-06-19 | active |
+| AUD-0017 | audit | 분명히 | 明确地、清楚地 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R3 | 2 | 1 | 2026-06-20 | 2026-06-23 | active |
 | AUD-0018 | audit | 선택지 | 待确认 | `plan/review_system.md` | 待确认 | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | AUD-0019 | audit | 속 터지는 주민들이 대책을 요구했다 | 急得要命的居民们要求对策。 | `review/2026-06-16_late_corrections_srs.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | AUD-0020 | audit | 솔직하게 | 坦率地、诚实地 | `review/2026-06-16_daily_words_grammar_srs.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
@@ -1098,77 +1098,77 @@
 | AUD-0041 | audit | 태풍 피해 복구가 지지부진하다 | 台风灾害恢复进展缓慢。 | `review/2026-06-16_late_corrections_srs.md` | B | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | AUD-0042 | audit | 편지 | 信 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | C | R1 | 0 | 0 |  | 待安排 | high-frequency |
 | AUD-0043 | audit | 한참 | 好一会儿 | `review/2026-06-16_daily_words_grammar_srs.md；review/2026-06-16_yesterday_review_pack.md` | A | R1 | 0 | 0 |  | 待安排 | high-frequency |
-| AUD-0044 | audit | 기지개 = 回暖、开始恢复 | 기지개 = 伸懒腰；기지개를 켜다 = 伸懒腰，也可比喻开始恢复活力 | daily/2026-06-17_daily_log.md | 待确认 | R2 | 1 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0472 | vocabulary | 구하다 | 找到、求得 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0473 | vocabulary | 그만두다 | 停止、辞掉 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0474 | vocabulary | 어울리다 | 适合、相配 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0475 | vocabulary | 장마 | 梅雨季 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0476 | vocabulary | 그치다 | 停，雨停 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0477 | vocabulary | 냄비 | 锅 | `data/topik/listening/083/learning_items.json` | A | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0478 | vocabulary | 잼 | 果酱 | `data/topik/listening/083/learning_items.json` | A | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0479 | vocabulary | 설탕 | 糖 | `data/topik/listening/083/learning_items.json` | A | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0480 | vocabulary | 벗다 | 脱、摘 | `data/topik/listening/083/learning_items.json` | A | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0481 | vocabulary | 날아가다 | 飞走 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0482 | vocabulary | 거울 | 镜子 | `data/topik/listening/083/learning_items.json` | A | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0483 | vocabulary | 치우다 | 收走、清理、移开 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0484 | vocabulary | 가죽 | 皮革 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0485 | vocabulary | 동료 | 同事、同僚 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0486 | vocabulary | 친척 | 亲戚 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0487 | vocabulary | 돌려주다 | 还给 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0488 | vocabulary | 물건 | 物品、东西 | `data/topik/listening/083/learning_items.json` | A | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0489 | vocabulary | 놓다 | 放 | `data/topik/listening/083/learning_items.json` | A | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0490 | vocabulary | 모형 | 模型 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0491 | vocabulary | 개회식 | 开幕式 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0492 | vocabulary | 예선 | 预选 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0493 | vocabulary | 방문 목적 | 访问目的 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0494 | vocabulary | 똑같다 | 一模一样 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0495 | vocabulary | 대기실 | 等候室、候场室 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0496 | vocabulary | 참가자 | 参赛者 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| VOC-0497 | vocabulary | 촬영 | 拍摄 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| PHR-0137 | phrases | 아르바이트를 구하다 | 找兼职 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| PHR-0138 | phrases | 마음에 들다 | 合心意、喜欢 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| PHR-0139 | phrases | 배송이 늦어지다 | 配送延迟 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| PHR-0140 | phrases | 갖다 주다 | 拿来给 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| PHR-0141 | phrases | 제자리에 놓다 | 放在原位 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| PHR-0142 | phrases | 뒤를 잇다 | 紧随其后 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| PHR-0143 | phrases | 끝나는 대로 | 一结束就…… | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| PHR-0144 | phrases | 친척 방문 | 探亲 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| PHR-0145 | phrases | 예선 경기 | 预选赛 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| PHR-0146 | phrases | 일기 예보 | 天气预报 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| PHR-0147 | phrases | 비가 그치다 | 雨停 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| PHR-0148 | phrases | 모자를 벗다 | 摘帽子 | `data/topik/listening/083/learning_items.json` | A | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| PHR-0149 | phrases | 가방을 보관하다 | 保管包 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| PHR-0150 | phrases | 가죽으로 만들다 | 用皮革制作 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| PHR-0151 | phrases | 촬영을 하다 | 拍摄 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CHK-0083 | chunks | 일할 사람 | 要工作的人 / 招聘对象 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CHK-0084 | chunks | 사무실처럼 보이다 | 看起来像办公室 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CHK-0085 | chunks | 협조 부탁드립니다 | 请配合 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CHK-0086 | chunks | 촬영할 물건 | 要拍摄的物品 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CHK-0087 | chunks | 제자리에 놓았고요 | 已经放在原位了，而且…… | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CHK-0088 | chunks | 언제까지 돌려주면 돼? | 到什么时候还给你就行？ | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CHK-0089 | chunks | 한번 가 봐야겠어요 | 我得去看看 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CHK-0090 | chunks | 너한테 더 잘 어울려 | 更适合你 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CHK-0091 | chunks | 작년하고 거의 비슷할 거래요 | 听说会和去年差不多 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CHK-0092 | chunks | 언제쯤 배송될지 확인해 주시겠어요? | 可以帮我确认大概什么时候配送吗？ | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CHK-0093 | chunks | 보관해 드릴게요 | 我帮您保管 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CHK-0094 | chunks | 거울이 커서 그런지 사무실처럼 보이지가 않네요 | 可能因为镜子太大，看起来不像办公室 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CHK-0095 | chunks | 치울까요? | 要不要我收走？ | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CHK-0096 | chunks | 직접 한번 보고 싶다 | 想亲自看一次 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CHK-0097 | chunks | 그 자리에서 기다려 주십시오 | 请在原地等待 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| GRM-0149 | grammar | -아/어야겠다 | 得……、应该…… | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| GRM-0150 | grammar | -ㄹ 거래요 | 听说将会…… | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| GRM-0151 | grammar | -아/어 드리다 | 为您…… | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| GRM-0152 | grammar | -아서/어서 그런지 | 可能因为……所以…… | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| GRM-0153 | grammar | N처럼 보이다 | 看起来像 N | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| GRM-0154 | grammar | -은/ㄴ 후에 | ……之后 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| GRM-0155 | grammar | N으로 만들다 | 用 N 制作 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| GRM-0156 | grammar | -ㄹ 사람 / -ㄹ 물건 | 要……的人/物 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CON-0180 | contrast | 친척 방문 vs 직접 방문 | 探亲 vs 亲自访问 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CON-0181 | contrast | -아/어 주다 vs -아/어 드리다 | 给别人做 vs 为您做 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CON-0182 | contrast | 일하는 사람 vs 일할 사람 | 正在工作的人 vs 要工作的人 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CON-0183 | contrast | 보이지 않다 vs 보이지가 않다 | 看起来不像/看不见 vs 强调看不出来 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CON-0184 | contrast | 찾아오다 vs 갖다 주다 | 找来/来到 vs 拿来给 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
-| CON-0185 | contrast | 친척 vs 친절하다 vs 직접 | 亲戚 vs 亲切 vs 亲自 | `data/topik/listening/083/learning_items.json` | B | R0 | 0 | 0 | 2026-06-18 | 2026-06-19 | active |
+| AUD-0044 | audit | 기지개 = 回暖、开始恢复 | 기지개 = 伸懒腰；기지개를 켜다 = 伸懒腰，也可比喻开始恢复活力 | daily/2026-06-17_daily_log.md | 待确认 | R3 | 2 | 0 | 2026-06-20 | 2026-06-23 | active |
+| VOC-0472 | vocabulary | 구하다 | 找到、求得 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0473 | vocabulary | 그만두다 | 停止、辞掉 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0474 | vocabulary | 어울리다 | 适合、相配 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0475 | vocabulary | 장마 | 梅雨季 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0476 | vocabulary | 그치다 | 停，雨停 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0477 | vocabulary | 냄비 | 锅 | `data/topik/listening/083/learning_items.json` | A | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0478 | vocabulary | 잼 | 果酱 | `data/topik/listening/083/learning_items.json` | A | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0479 | vocabulary | 설탕 | 糖 | `data/topik/listening/083/learning_items.json` | A | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0480 | vocabulary | 벗다 | 脱、摘 | `data/topik/listening/083/learning_items.json` | A | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0481 | vocabulary | 날아가다 | 飞走 | `data/topik/listening/083/learning_items.json` | B | R1 | 0 | 1 | 2026-06-20 | 2026-06-21 | high-frequency |
+| VOC-0482 | vocabulary | 거울 | 镜子 | `data/topik/listening/083/learning_items.json` | A | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0483 | vocabulary | 치우다 | 收走、清理、移开 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0484 | vocabulary | 가죽 | 皮革 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0485 | vocabulary | 동료 | 同事、同僚 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0486 | vocabulary | 친척 | 亲戚 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0487 | vocabulary | 돌려주다 | 还给 | `data/topik/listening/083/learning_items.json` | B | R1 | 0 | 1 | 2026-06-20 | 2026-06-21 | high-frequency |
+| VOC-0488 | vocabulary | 물건 | 物品、东西 | `data/topik/listening/083/learning_items.json` | A | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0489 | vocabulary | 놓다 | 放 | `data/topik/listening/083/learning_items.json` | A | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0490 | vocabulary | 모형 | 模型 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0491 | vocabulary | 개회식 | 开幕式 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0492 | vocabulary | 예선 | 预选 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0493 | vocabulary | 방문 목적 | 访问目的 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0494 | vocabulary | 똑같다 | 一模一样 | `data/topik/listening/083/learning_items.json` | B | R1 | 0 | 1 | 2026-06-20 | 2026-06-21 | high-frequency |
+| VOC-0495 | vocabulary | 대기실 | 等候室、候场室 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0496 | vocabulary | 참가자 | 参赛者 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| VOC-0497 | vocabulary | 촬영 | 拍摄 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| PHR-0137 | phrases | 아르바이트를 구하다 | 找兼职 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| PHR-0138 | phrases | 마음에 들다 | 合心意、喜欢 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| PHR-0139 | phrases | 배송이 늦어지다 | 配送延迟 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| PHR-0140 | phrases | 갖다 주다 | 拿来给 | `data/topik/listening/083/learning_items.json` | B | R1 | 0 | 0 | 2026-06-20 | 2026-06-21 | high-frequency |
+| PHR-0141 | phrases | 제자리에 놓다 | 放在原位 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| PHR-0142 | phrases | 뒤를 잇다 | 紧随其后 | `data/topik/listening/083/learning_items.json` | B | R1 | 0 | 1 | 2026-06-20 | 2026-06-21 | high-frequency |
+| PHR-0143 | phrases | 끝나는 대로 | 一结束就…… | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| PHR-0144 | phrases | 친척 방문 | 探亲 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| PHR-0145 | phrases | 예선 경기 | 预选赛 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| PHR-0146 | phrases | 일기 예보 | 天气预报 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| PHR-0147 | phrases | 비가 그치다 | 雨停 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| PHR-0148 | phrases | 모자를 벗다 | 摘帽子 | `data/topik/listening/083/learning_items.json` | A | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| PHR-0149 | phrases | 가방을 보관하다 | 保管包 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| PHR-0150 | phrases | 가죽으로 만들다 | 用皮革制作 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| PHR-0151 | phrases | 촬영을 하다 | 拍摄 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| CHK-0083 | chunks | 일할 사람 | 要工作的人 / 招聘对象 | `data/topik/listening/083/learning_items.json` | B | R1 | 0 | 1 | 2026-06-20 | 2026-06-21 | high-frequency |
+| CHK-0084 | chunks | 사무실처럼 보이다 | 看起来像办公室 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| CHK-0085 | chunks | 협조 부탁드립니다 | 请配合 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| CHK-0086 | chunks | 촬영할 물건 | 要拍摄的物品 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| CHK-0087 | chunks | 제자리에 놓았고요 | 已经放在原位了，而且…… | `data/topik/listening/083/learning_items.json` | B | R1 | 0 | 0 | 2026-06-20 | 2026-06-21 | high-frequency |
+| CHK-0088 | chunks | 언제까지 돌려주면 돼? | 到什么时候还给你就行？ | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| CHK-0089 | chunks | 한번 가 봐야겠어요 | 我得去看看 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| CHK-0090 | chunks | 너한테 더 잘 어울려 | 更适合你 | `data/topik/listening/083/learning_items.json` | B | R1 | 0 | 0 | 2026-06-20 | 2026-06-21 | high-frequency |
+| CHK-0091 | chunks | 작년하고 거의 비슷할 거래요 | 听说会和去年差不多 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| CHK-0092 | chunks | 언제쯤 배송될지 확인해 주시겠어요? | 可以帮我确认大概什么时候配送吗？ | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| CHK-0093 | chunks | 보관해 드릴게요 | 我帮您保管 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| CHK-0094 | chunks | 거울이 커서 그런지 사무실처럼 보이지가 않네요 | 可能因为镜子太大，看起来不像办公室 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| CHK-0095 | chunks | 치울까요? | 要不要我收走？ | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| CHK-0096 | chunks | 직접 한번 보고 싶다 | 想亲自看一次 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| CHK-0097 | chunks | 그 자리에서 기다려 주십시오 | 请在原地等待 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| GRM-0149 | grammar | -아/어야겠다 | 得……、应该…… | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| GRM-0150 | grammar | -ㄹ 거래요 | 听说将会…… | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| GRM-0151 | grammar | -아/어 드리다 | 为您…… | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| GRM-0152 | grammar | -아서/어서 그런지 | 可能因为……所以…… | `data/topik/listening/083/learning_items.json` | B | R1 | 0 | 1 | 2026-06-20 | 2026-06-21 | high-frequency |
+| GRM-0153 | grammar | N처럼 보이다 | 看起来像 N | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| GRM-0154 | grammar | -은/ㄴ 후에 | ……之后 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| GRM-0155 | grammar | N으로 만들다 | 用 N 制作 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| GRM-0156 | grammar | -ㄹ 사람 / -ㄹ 물건 | 要……的人/物 | `data/topik/listening/083/learning_items.json` | B | R1 | 0 | 0 | 2026-06-20 | 2026-06-21 | high-frequency |
+| CON-0180 | contrast | 친척 방문 vs 직접 방문 | 探亲 vs 亲自访问 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| CON-0181 | contrast | -아/어 주다 vs -아/어 드리다 | 给别人做 vs 为您做 | `data/topik/listening/083/learning_items.json` | B | R1 | 0 | 0 | 2026-06-20 | 2026-06-21 | high-frequency |
+| CON-0182 | contrast | 일하는 사람 vs 일할 사람 | 正在工作的人 vs 要工作的人 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| CON-0183 | contrast | 보이지 않다 vs 보이지가 않다 | 看起来不像/看不见 vs 强调看不出来 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
+| CON-0184 | contrast | 찾아오다 vs 갖다 주다 | 找来/来到 vs 拿来给 | `data/topik/listening/083/learning_items.json` | B | R1 | 0 | 0 | 2026-06-20 | 2026-06-21 | high-frequency |
+| CON-0185 | contrast | 친척 vs 친절하다 vs 직접 | 亲戚 vs 亲切 vs 亲自 | `data/topik/listening/083/learning_items.json` | B | R1 | 1 | 0 | 2026-06-20 | 2026-06-21 | active |
 
 ## 5. 高频回炉区
 
