@@ -1169,6 +1169,304 @@
 | CON-0183 | contrast | 보이지 않다 vs 보이지가 않다 | 看起来不像/看不见 vs 强调看不出来 | `data/topik/listening/083/learning_items.json` | B | R2 | 2 | 0 | 2026-06-21 | 2026-06-22 | active |
 | CON-0184 | contrast | 찾아오다 vs 갖다 주다 | 找来/来到 vs 拿来给 | `data/topik/listening/083/learning_items.json` | B | R2 | 1 | 0 | 2026-06-21 | 2026-06-22 | active |
 | CON-0185 | contrast | 친척 vs 친절하다 vs 직접 | 亲戚 vs 亲切 vs 亲自 | `data/topik/listening/083/learning_items.json` | B | R2 | 2 | 0 | 2026-06-21 | 2026-06-22 | active |
+| VOC-0498 | vocabulary | 길을 잃다 | 迷路；Priority A；Source 15 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0499 | vocabulary | 등산객 | 登山客；Priority B；Source 15 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0500 | vocabulary | 구조되다 | 被救出；Priority A；Source 15 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0501 | vocabulary | 구조 요청 | 救援请求；Priority B；Source 15 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0502 | vocabulary | 구조대원 | 救援队员；Priority B；Source 15 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0503 | vocabulary | 곧바로 | 立刻；Priority B；Source 15 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0504 | vocabulary | 수색 작업 | 搜索工作；Priority A；Source 15 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0505 | vocabulary | 두 시간 만에 | 两小时后/仅用两小时；Priority B；Source 15 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0506 | vocabulary | 발견하다 | 发现；Priority A；Source 15 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0507 | vocabulary | 산 정상 | 山顶；Priority B；Source 15 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0508 | vocabulary | 내려오다 | 下来；Priority B；Source 15 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0509 | vocabulary | 날이 어두워지다 | 天变黑；Priority A；Source 15 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0510 | vocabulary | 확인되다 | 被确认；Priority B；Source 15 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0511 | vocabulary | 인기를 얻다 | 获得人气；Priority B；Source 16 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0512 | vocabulary | 흔하다 | 常见；Priority B；Source 16 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0513 | vocabulary | 평범하다 | 平凡；Priority B；Source 16 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0514 | vocabulary | 소재 | 素材/题材；Priority A；Source 16 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0515 | vocabulary | 따뜻하게 그리다 | 温暖地描绘；Priority B；Source 16 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0516 | vocabulary | 어린 시절 | 童年；Priority B；Source 16 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0517 | vocabulary | 기억하다 | 记得；Priority B；Source 16 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0518 | vocabulary | 70세가 넘어서야 | 过了70岁才；Priority B；Source 16 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0519 | vocabulary | 배운 적이 없다 | 没学过；Priority B；Source 16 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0520 | vocabulary | 꾸미지 않은 느낌 | 不加修饰的感觉；Priority A；Source 16 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0521 | vocabulary | 메일을 보내다 | 发邮件；Priority B；Source 17 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0522 | vocabulary | 메일을 받다 | 收到邮件；Priority B；Source 17 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0523 | vocabulary | 답장 | 回复；Priority A；Source 17 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0524 | vocabulary | 답장을 보내다 | 发回复；Priority A；Source 17 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0525 | vocabulary | 아직 | 还；Priority B；Source 17 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0526 | vocabulary | 걱정하다 | 担心；Priority B；Source 17 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0527 | vocabulary | 기다리다 | 等待；Priority B；Source 17 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0528 | vocabulary | 사실 | 事实；Priority B；Source 17 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0529 | vocabulary | 요즘 | 最近；Priority B；Source 18 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0530 | vocabulary | 새벽 | 凌晨；Priority A；Source 18 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0531 | vocabulary | 일어나다 | 起床；Priority B；Source 18 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0532 | vocabulary | 집중 | 集中；Priority B；Source 18 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0533 | vocabulary | 집중이 잘되다 | 注意力集中得好；Priority A；Source 18 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0534 | vocabulary | 피곤하다 | 累；Priority B；Source 18 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0535 | vocabulary | 처음엔 | 起初；Priority B；Source 18 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0536 | vocabulary | 이제는 | 现在；Priority B；Source 18 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0537 | vocabulary | 공부가 잘되다 | 学习顺利/学得进去；Priority B；Source 18 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0538 | vocabulary | 직업인 | 从业者；Priority B；Source 19 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0539 | vocabulary | 만남 프로그램 | 见面项目；Priority B；Source 19 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0540 | vocabulary | 다양한 직업 | 多种职业；Priority B；Source 19 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0541 | vocabulary | 이야기를 듣다 | 听故事/经验；Priority B；Source 19 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0542 | vocabulary | 진로 | 职业方向；Priority A；Source 19 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0543 | vocabulary | 결정하다 | 决定；Priority B；Source 19 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0544 | vocabulary | 도움이 되다 | 有帮助；Priority A；Source 19 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0545 | vocabulary | 여러 분야 | 多个领域；Priority B；Source 19 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0546 | vocabulary | 마을 이름 | 村名；Priority B；Source 20 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0547 | vocabulary | 책을 내다 | 出书；Priority B；Source 20 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0548 | vocabulary | 특별한 계기 | 特别契机；Priority B；Source 20 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0549 | vocabulary | 지명 | 地名；Priority A；Source 20 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0550 | vocabulary | 옛날 말 | 古语/旧语；Priority A；Source 20 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0551 | vocabulary | 남아 있다 | 留存着；Priority B；Source 20 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0552 | vocabulary | 자연 | 自然；Priority B；Source 20 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0553 | vocabulary | 가리키다 | 指代；Priority B；Source 20 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0554 | vocabulary | 아름다운 표현 | 美丽表达；Priority B；Source 20 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0555 | vocabulary | 일상 | 日常；Priority B；Source 20 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0556 | vocabulary | 삶의 곳곳 | 生活各处；Priority A；Source 20 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0557 | vocabulary | 사용되다 | 被使用；Priority B；Source 20 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0558 | vocabulary | 연구 계획서 | 研究计划书；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0559 | vocabulary | 성격 | 性格；Priority B；Source 21-22 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0560 | vocabulary | 여행지 | 旅行地；Priority B；Source 21-22 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0561 | vocabulary | 결정 | 决定；Priority B；Source 21-22 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0562 | vocabulary | 영향을 미치다 | 产生影响；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0563 | vocabulary | 알아보다 | 调查/了解；Priority B；Source 21-22 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0564 | vocabulary | 주제 | 主题；Priority B；Source 21-22 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0565 | vocabulary | 새롭다 | 新颖；Priority B；Source 21-22 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0566 | vocabulary | 연구 방법 | 研究方法；Priority B；Source 21-22 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0567 | vocabulary | 설문 조사 | 问卷调查；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0568 | vocabulary | 계획이 거의 없다 | 几乎没有计划；Priority B；Source 21-22 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0569 | vocabulary | 조사 대상 | 调查对象；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0570 | vocabulary | 조사 내용 | 调查内容；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0571 | vocabulary | 분명하다 | 明确；Priority B；Source 21-22 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0572 | vocabulary | 유형을 나누다 | 划分类型；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0573 | vocabulary | 상사 | 商社/公司；Priority B；Source 23-24 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0574 | vocabulary | 합격자 | 合格者/录取者；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0575 | vocabulary | 건강 검진 | 健康检查；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0576 | vocabulary | 신입 사원 | 新员工；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0577 | vocabulary | 연수 | 培训；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0578 | vocabulary | 일정 | 日程；Priority B；Source 23-24 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0579 | vocabulary | 문자 | 短信；Priority B；Source 23-24 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0580 | vocabulary | 정해진 병원 | 指定医院；Priority B；Source 23-24 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0581 | vocabulary | 보건소 | 保健所；Priority B；Source 23-24 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0582 | vocabulary | 검진 결과 | 体检结果；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0583 | vocabulary | 출근 전까지 | 上班前；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0584 | vocabulary | 내다 | 提交；Priority B；Source 23-24 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0585 | vocabulary | 증명서 | 证明书；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0586 | vocabulary | 뵙다 | 拜见/见面；Priority B；Source 23-24 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0587 | vocabulary | 타이어 | 轮胎；Priority B；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0588 | vocabulary | 설계하다 | 设计；Priority B；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0589 | vocabulary | 판매 | 销售；Priority B；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0590 | vocabulary | 기존의 | 原有的；Priority B；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0591 | vocabulary | 환경 보호 | 环境保护；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0592 | vocabulary | 성능 | 性能；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0593 | vocabulary | 대기 오염 | 大气污染；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0594 | vocabulary | 해결하다 | 解决；Priority B；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0595 | vocabulary | 미세 플라스틱 | 微塑料；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0596 | vocabulary | 조각 | 碎片；Priority B；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0597 | vocabulary | 공기 중 | 空气中；Priority B；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0598 | vocabulary | 안쪽 | 里面；Priority B；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0599 | vocabulary | 캡슐 장치 | 胶囊装置；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0600 | vocabulary | 모이다 | 聚集；Priority B；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0601 | vocabulary | 저장되다 | 被储存；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0602 | vocabulary | 가득 차다 | 装满；Priority B；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0603 | vocabulary | 옆면 | 侧面；Priority B；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0604 | vocabulary | 색이 바뀌다 | 颜色改变；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0605 | vocabulary | 운전자 | 驾驶者；Priority B；Source 25-26 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0606 | vocabulary | 남는 공간 | 空余空间；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0607 | vocabulary | 창업 동아리 | 创业社团；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0608 | vocabulary | 무료로 | 免费地；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0609 | vocabulary | 대여하다 | 租借；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0610 | vocabulary | 지원하다 | 申请/报名；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0611 | vocabulary | 신청하다 | 申请；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0612 | vocabulary | 학교 안 | 学校内；Priority B；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0613 | vocabulary | 빈 공간 | 空着的空间；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0614 | vocabulary | 사업 | 项目；Priority B；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0615 | vocabulary | 금요일까지 | 到周五为止；Priority B；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0616 | vocabulary | 홈페이지 | 官网；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0617 | vocabulary | 정보를 입력하다 | 输入信息；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0618 | vocabulary | 몇 가지 | 几项；Priority B；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0619 | vocabulary | 서류 | 材料；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0620 | vocabulary | 다음 주까지 | 到下周为止；Priority B；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0621 | vocabulary | 올리다 | 上传；Priority B；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0622 | vocabulary | 확인 서류 | 确认材料；Priority B；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0623 | vocabulary | 정확히 모르다 | 不太清楚；Priority B；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0624 | vocabulary | 사무실 | 办公室；Priority B；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| VOC-0625 | vocabulary | 물어보다 | 问问看；Priority B；Source 27-28 | `data/topik/listening/083/083_extracted_vocab.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0098 | chunks | 길을 잃은 등산객 네 명 | 迷路的四名登山客；Priority A；Source 15 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0099 | chunks | 구조 요청을 받은 구조대원들 | 接到救援请求的救援队员；Priority A；Source 15 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0100 | chunks | 곧바로 수색 작업을 시작하다 | 立即开始搜索工作；Priority A；Source 15 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0101 | chunks | 두 시간 만에 모두를 발견하다 | 两小时后找到全部人员；Priority A；Source 15 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0102 | chunks | 산 정상에서 내려오던 중 | 从山顶下来的途中；Priority A；Source 15 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0103 | chunks | 날이 어두워져 길을 잃다 | 因天色变暗而迷路；Priority A；Source 15 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0104 | chunks | 길을 잃은 것으로 확인되다 | 被确认是迷路；Priority A；Source 15 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0105 | chunks | 인기를 얻고 있는 이유 | 正在获得人气的原因；Priority A；Source 16 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0106 | chunks | 흔하고 평범한 소재 | 常见而平凡的素材；Priority A；Source 16 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0107 | chunks | 평범한 소재를 따뜻하게 그리다 | 温暖地描绘平凡素材；Priority A；Source 16 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0108 | chunks | 행복했던 어린 시절을 기억하다 | 记住幸福的童年；Priority A；Source 16 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0109 | chunks | 70세가 넘어서야 그림을 시작하다 | 70岁以后才开始画画；Priority A；Source 16 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0110 | chunks | 배운 적도 없다 | 连学都没学过；Priority A；Source 16 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0111 | chunks | 꾸미지 않은 느낌을 좋아하다 | 喜欢不加修饰的感觉；Priority A；Source 16 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0112 | chunks | 어떻게 쓸까 생각하느라고 | 因为在想怎么写；Priority A；Source 17 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0113 | chunks | 아직 답장을 못 보내다 | 还没能回复；Priority A；Source 17 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0114 | chunks | 메일이 안 갔나 걱정하다 | 担心邮件是不是没发过去；Priority A；Source 17 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0115 | chunks | 받았다는 말이라도 해 주다 | 至少说一声收到了；Priority A；Source 17 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0116 | chunks | 메일을 받은 사실을 알려 주다 | 告诉对方收到邮件的事实；Priority A；Source 17 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0117 | chunks | 새벽에 일어나서 공부하다 | 凌晨起床学习；Priority A；Source 18 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0118 | chunks | 집중이 잘되더라 | 发现很容易集中注意力；Priority A；Source 18 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0119 | chunks | 많이 피곤할 것 같다 | 好像会很累；Priority A；Source 18 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0120 | chunks | 처음엔 좀 피곤했다 | 一开始有点累；Priority A；Source 18 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0121 | chunks | 이제는 공부가 잘돼서 좋다 | 现在学习效果好，所以不错；Priority A；Source 18 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0122 | chunks | 직업인들과의 만남 프로그램 | 与从业者见面的项目；Priority A；Source 19 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0123 | chunks | 다양한 직업을 가진 사람들 | 拥有不同职业的人；Priority A；Source 19 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0124 | chunks | 이야기를 들으니까 좋다 | 听他们的故事觉得很好；Priority A；Source 19 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0125 | chunks | 진로를 결정하는 데 도움이 되다 | 对决定职业方向有帮助；Priority A；Source 19 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0126 | chunks | 여러 분야의 사람들을 만나다 | 见不同领域的人；Priority A；Source 19 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0127 | chunks | 배울 것도 많다 | 能学到的也多；Priority A；Source 19 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0128 | chunks | 마을 이름에 대한 책을 내다 | 出一本关于村名的书；Priority A；Source 20 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0129 | chunks | 지금은 안 쓰는 옛날 말 | 现在不用的古语；Priority A；Source 20 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0130 | chunks | 많이 남아 있다 | 留存很多；Priority A；Source 20 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0131 | chunks | 문화나 자연을 가리키는 말 | 指代文化或自然的词；Priority A；Source 20 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0132 | chunks | 아름다운 표현들이 많다 | 有很多美丽表达；Priority A；Source 20 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0133 | chunks | 다시 우리의 일상으로 들어오다 | 重新进入我们的日常；Priority A；Source 20 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0134 | chunks | 삶의 곳곳에서 사용되다 | 在生活各处被使用；Priority A；Source 20 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0135 | chunks | 책을 쓰게 되다 | 最终写了书；Priority A；Source 20 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0136 | chunks | 제 연구 계획서인데요 | 这是我的研究计划书；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0137 | chunks | 한번 봐 주시겠어요? | 能帮我看一下吗；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0138 | chunks | 성격이 여행지 결정에 미치는 영향 | 性格对旅行地决定产生的影响；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0139 | chunks | 알아보겠다는 거군요 | 是想了解……啊；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0140 | chunks | 주제가 아주 새롭고 좋아요 | 主题很新颖，也很好；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0141 | chunks | 연구 방법으로 설문 조사를 선택하다 | 研究方法选择问卷调查；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0142 | chunks | 계획이 거의 없다 | 几乎没有计划；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0143 | chunks | 조사하려는 내용이 분명해야 하다 | 要调查的内容必须明确；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0144 | chunks | 조사 대상과 내용을 잘 계획하다 | 好好规划调查对象和内容；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0145 | chunks | 무엇부터 시작하면 좋을지 모르다 | 不知道从什么开始好；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0146 | chunks | 유형을 나누는 것부터 시작하다 | 从划分类型开始；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0147 | chunks | 합격자 분들에게 문자를 보내 드리다 | 给合格者们发短信；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0148 | chunks | 건강 검진과 신입 사원 연수 일정 | 健康检查和新员工培训日程；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0149 | chunks | 정해진 병원에서만 해야 하나요? | 只能在指定医院做吗；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0150 | chunks | 집 근처 보건소나 병원에서 받다 | 在家附近保健所或医院做；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0151 | chunks | 받으셔도 됩니다 | 您可以做；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0152 | chunks | 연수 끝나고 출근 전까지 | 培训结束后到上班前为止；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0153 | chunks | 출근 전까지 내시면 됩니다 | 上班前提交即可；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0154 | chunks | 문자로 안내 드린 증명서 | 短信中 안내 的证明书；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0155 | chunks | 증명서만 제출하시면 됩니다 | 只提交证明书即可；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0156 | chunks | 판매를 곧 시작하다 | 即将开始销售；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0157 | chunks | 기존의 타이어와 다른 점 | 与原有轮胎不同之处；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0158 | chunks | 환경 보호를 위해서는 | 为了环境保护；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0159 | chunks | 성능만 강조하는 기존의 타이어 설계 | 只强调性能的原有轮胎设计；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0160 | chunks | 설계에 변화가 필요하다 | 设计需要变化；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0161 | chunks | 대기 오염의 가장 큰 원인 | 大气污染的最大原因；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0162 | chunks | 미세 플라스틱 조각 | 微塑料碎片；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0163 | chunks | 공기 중으로 날아가지 않다 | 不飞散到空气中；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0164 | chunks | 타이어 안쪽에 만들어 놓은 캡슐 장치 | 轮胎内部设置好的胶囊装置；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0165 | chunks | 모여 저장되도록 설계하다 | 设计成能够聚集并储存；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0166 | chunks | 캡슐이 가득 차다 | 胶囊装满；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0167 | chunks | 타이어 옆면의 색이 바뀌다 | 轮胎侧面颜色改变；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0168 | chunks | 운전자가 알 수 있게 하다 | 让驾驶者能够知道；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0169 | chunks | 학교에서 남는 공간을 대여해 주다 | 学校把空余空间租给……；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0170 | chunks | 창업 동아리에 무료로 대여해 주다 | 免费租给创业社团；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0171 | chunks | 우리도 한번 지원해 보자 | 我们也申请看看吧；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0172 | chunks | 학교 안의 빈 공간을 빌려 주는 사업 | 租借学校内空余空间的项目；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0173 | chunks | 금요일까지 신청할 수 있다 | 到周五为止可以申请；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0174 | chunks | 학교 홈페이지에 정보를 입력하다 | 在学校官网输入信息；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0175 | chunks | 몇 가지 정보만 입력하면 된다 | 只要输入几项信息就可以；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0176 | chunks | 다른 서류는 다음 주까지 올리면 된다 | 其他材料下周前上传即可；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0177 | chunks | 정확히 모르겠다 | 不太清楚；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CHK-0178 | chunks | 사무실에 가서 한번 물어보자 | 去办公室问问看吧；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_chunks.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0157 | grammar | -던 중 | 正在……的时候/途中；Priority A；Source 15 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0158 | grammar | -아/어지다 | 变得……；Priority A；Source 15 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0159 | grammar | N 만에 | 隔了……后/用了……；Priority A；Source 15 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0160 | grammar | -는 것으로 확인되다 | 被确认为……；Priority A；Source 15 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0161 | grammar | -기 때문 | 因为……；Priority A；Source 16 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0162 | grammar | -지 않을까요? | 难道不是……吗/委婉推测；Priority A；Source 16 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0163 | grammar | -고 싶어서 | 因为想……；Priority A；Source 16 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0164 | grammar | -아서/어서야 | 直到……才；Priority A；Source 16 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0165 | grammar | -은/ㄴ 적이 없다 | 没有……过；Priority A；Source 16 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0166 | grammar | -아/어 주다 | 为别人做/受惠；Priority A；Source 16 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0167 | grammar | -ㄹ까 생각하다 | 想着该怎么/要不要……；Priority A；Source 17 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0168 | grammar | -나 | 是不是……/自问式推测；Priority A；Source 17 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0169 | grammar | -다는 말 | 说……这件事；Priority A；Source 17 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0170 | grammar | N이라도 | 哪怕……也好；Priority A；Source 17 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0171 | grammar | -지 | 轻微责备/遗憾；Priority A；Source 17 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0172 | grammar | -더라 | 亲身体验后发现；Priority A；Source 18 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0173 | grammar | -을/ㄹ 것 같다 | 好像……；Priority A；Source 18 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0174 | grammar | 처음엔 ... 이제는 ... | 起初……现在……；Priority A；Source 18 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0175 | grammar | -아/어서 좋다 | 因为……所以好；Priority A；Source 18 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0176 | grammar | -았/었던 | 过去经历过的；Priority A；Source 19 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0177 | grammar | -으니까 | 因为……所以/听后感；Priority A；Source 19 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0178 | grammar | -는 데 도움이 되다 | 对……有帮助；Priority A；Source 19 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0179 | grammar | -면 | 如果……；Priority A；Source 19 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0180 | grammar | -ㄹ 것도 많다 | 可以……的也多；Priority A；Source 19 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0181 | grammar | N 중에 | 在……之中；Priority A；Source 20 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0182 | grammar | -았/었으면 하다 | 希望……；Priority A；Source 20 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0183 | grammar | N에 미치는 영향 | 对……产生的影响；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0184 | grammar | -겠다는 거군요 | 是说打算……啊/确认理解；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0185 | grammar | -려는 | 想要……的；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0186 | grammar | -ㄹ 필요가 있다 | 有必要……；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0187 | grammar | -는 것부터 시작하다 | 从……开始；Priority A；Source 21-22 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0188 | grammar | -나요? | 礼貌提问；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0189 | grammar | -에서만 | 只在……；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0190 | grammar | N 전까지 | 在……之前；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0191 | grammar | -시면 됩니다 | 您……就可以；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0192 | grammar | N만 | 只……；Priority A；Source 23-24 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0193 | grammar | -다고 듣다 | 听说……；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0194 | grammar | -기 위해서는 | 为了……；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0195 | grammar | -다고 생각하다 | 认为……；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0196 | grammar | -고 있거든요 | 说明原因/背景；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0197 | grammar | -기 위해 | 为了……；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0198 | grammar | -도록 설계하다 | 设计成能够……；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0199 | grammar | -게 하다 | 使……/让……；Priority A；Source 25-26 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0200 | grammar | -ㄴ대 | 听说……；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0201 | grammar | -아/어 보자 | 试着……吧；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0202 | grammar | N 맞지? | 是……对吧；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0203 | grammar | -나? | 疑问/自问；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0204 | grammar | -까지 | 到……为止；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0205 | grammar | -면 되다 | ……就可以；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| GRM-0206 | grammar | -ㄹ 것을 제안하다 | 提议……；Priority A；Source 27-28 | `data/topik/listening/083/083_extracted_grammar.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0186 | contrast | 오전 아님: 원문은 어젯밤 열 시 | TOPIK83 15-28 易混判断；Source 15 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0187 | contrast | 원인 조사 예정 아님: 이미 날이 어두워져 길을 잃은 것으로 확인 | TOPIK83 15-28 易混判断；Source 15 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0188 | contrast | 오르다가 아님: 산 정상에서 내려오던 중 | TOPIK83 15-28 易混判断；Source 15 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0189 | contrast | 전문적으로 배움 아님: 배운 적도 없고요 | TOPIK83 15-28 易混判断；Source 16 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0190 | contrast | 화려함 아님: 꾸미지 않은 느낌 | TOPIK83 15-28 易混判断；Source 16 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0191 | contrast | 70년 넘게 화가 아님: 70세가 넘어서야 시작 | TOPIK83 15-28 易混判断；Source 16 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0192 | contrast | 확인 빈도 아님 | TOPIK83 15-28 易混判断；Source 17 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0193 | contrast | 답장을 기다리는 게 낫다는 말 아님 | TOPIK83 15-28 易混判断；Source 17 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0194 | contrast | 답장 전 확인이 아니라 수신 사실 알림 | TOPIK83 15-28 易混判断；Source 17 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0195 | contrast | 매일 공부 빈도 아님 | TOPIK83 15-28 易混判断；Source 18 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0196 | contrast | 장소 변경 언급 없음 | TOPIK83 15-28 易混判断；Source 18 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0197 | contrast | 휴식 필요는 남자의 중심 생각 아님 | TOPIK83 15-28 易混判断；Source 18 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0198 | contrast | 직업 변경 언급 없음 | TOPIK83 15-28 易混判断；Source 19 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0199 | contrast | 같이 일하는 사람과의 관계 아님 | TOPIK83 15-28 易混判断；Source 19 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0200 | contrast | 진로 고민보다 다양한 분야 사람 만남이 핵심 | TOPIK83 15-28 易混判断；Source 19 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0201 | contrast | 지명을 새롭게 바꾸자는 말 아님 | TOPIK83 15-28 易混判断；Source 20 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0202 | contrast | 알기 쉽게 만들자는 말 아님 | TOPIK83 15-28 易混判断；Source 20 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0203 | contrast | 마을 문화 반영 원칙이 중심 아님 | TOPIK83 15-28 易混判断；Source 20 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0204 | contrast | 주제 변경 아님: 교수는 주제가 좋다고 함 | TOPIK83 15-28 易混判断；Source 21-22 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0205 | contrast | 응답자 수가 아니라 조사 대상과 내용 | TOPIK83 15-28 易混判断；Source 21-22 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0206 | contrast | 연구자는 여자, 남자는 교수/평가자 | TOPIK83 15-28 易混判断；Source 21-22 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0207 | contrast | 연구 방법은 설문 조사로 이미 선택됨 | TOPIK83 15-28 易混判断；Source 21-22 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0208 | contrast | 취업 방법 소개 아님 | TOPIK83 15-28 易混判断；Source 23-24 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0209 | contrast | 일정 변경 아님 | TOPIK83 15-28 易混判断；Source 23-24 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0210 | contrast | 채용 절차가 아니라 합격 후 입사 전 안내 | TOPIK83 15-28 易混判断；Source 23-24 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0211 | contrast | 정해진 병원만 아님 | TOPIK83 15-28 易混判断；Source 23-24 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0212 | contrast | 출근 후가 아니라 출근 전까지 제출 | TOPIK83 15-28 易混判断；Source 23-24 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0213 | contrast | 타이어 저장 공간이 아니라 미세 플라스틱 저장 장치 | TOPIK83 15-28 易混判断；Source 25-26 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0214 | contrast | 운전자 의견 반영 아님 | TOPIK83 15-28 易混判断；Source 25-26 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0215 | contrast | 새로운 소재 연구 아님 | TOPIK83 15-28 易混判断；Source 25-26 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0216 | contrast | 판매를 곧 시작하므로 판매량 기록 아님 | TOPIK83 15-28 易混判断；Source 25-26 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0217 | contrast | 성능 향상 중심이 아니라 환경 중심 | TOPIK83 15-28 易混判断；Source 25-26 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0218 | contrast | 색 변화는 오염 정도가 아니라 캡슐이 찼다는 표시 | TOPIK83 15-28 易混判断；Source 25-26 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0219 | contrast | 결과 알림 아님 | TOPIK83 15-28 易混判断；Source 27-28 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0220 | contrast | 서류 문의는 부수적 내용, 의도는 함께 신청 제안 | TOPIK83 15-28 易混判断；Source 27-28 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0221 | contrast | 신청서 작성 부탁 아님 | TOPIK83 15-28 易混判断；Source 27-28 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0222 | contrast | 신청은 금요일까지, 다음 주는 다른 서류 업로드 | TOPIK83 15-28 易混判断；Source 27-28 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0223 | contrast | 적은 비용이 아니라 무료 | TOPIK83 15-28 易混判断；Source 27-28 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
+| CON-0224 | contrast | 사무실 제출 아님, 홈페이지 입력/업로드 | TOPIK83 15-28 易混判断；Source 27-28 | `data/topik/listening/083/083_extracted_contrast.md` | 待确认 | R0 | 0 | 0 |  | 待安排 | pending |
 
 ## 5. 高频回炉区
 
