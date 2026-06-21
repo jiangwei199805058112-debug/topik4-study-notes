@@ -1,10 +1,12 @@
 from __future__ import annotations
 
 import argparse
+import re
 import sys
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
+sys.dont_write_bytecode = True
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 if hasattr(sys.stderr, "reconfigure"):
@@ -74,10 +76,13 @@ NEW_CONTENT_SECTIONS = {
     "6": {"type": "audit", "content": "原答案 / 原理解", "chinese": "正确答案 / 正确理解", "flag": "是否进入高频回炉"},
 }
 
+REVIEW_RESULT_HEADER = ["ID", "内容", "类型", "原R阶段", "结果", "错因", "新等级", "备注"]
+
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Update MASTER_REVIEW_QUEUE.md from a daily log.")
     parser.add_argument("date", nargs="?", default=date.today().isoformat(), help="Daily log date in YYYY-MM-DD format.")
+    parser.add_argument("--dry-run", action="store_true", help="Preview queue and review plan changes without writing files.")
     return parser.parse_args()
 
 
@@ -141,33 +146,68 @@ def parse_bullet_records(lines: list[str], first_keys: set[str]) -> list[dict[st
     return records
 
 
-def parse_review_results(text: str) -> tuple[list[dict[str, str]], list[str]]:
+def iter_markdown_tables(lines: list[str]) -> list[tuple[list[str], list[list[str]]]]:
+    tables: list[tuple[list[str], list[list[str]]]] = []
+    index = 0
+    while index < len(lines):
+        line = lines[index]
+        if not line.strip().startswith("|"):
+            index += 1
+            continue
+        if index + 1 >= len(lines) or not is_separator_row(lines[index + 1]):
+            index += 1
+            continue
+
+        header = split_table_row(line)
+        rows: list[list[str]] = []
+        cursor = index + 2
+        while cursor < len(lines) and lines[cursor].strip().startswith("|"):
+            if not is_separator_row(lines[cursor]):
+                rows.append(split_table_row(lines[cursor]))
+            cursor += 1
+        tables.append((header, rows))
+        index = cursor
+    return tables
+
+
+def declared_review_total(text: str) -> int | None:
+    totals: list[int] = []
+    for line in section_body(text, "8"):
+        match = re.search(r"(?:总复习数量|total)\s*[：:]\s*(\d+)", line, flags=re.IGNORECASE)
+        if match:
+            totals.append(int(match.group(1)))
+    if not totals:
+        return None
+    return max(totals)
+
+
+def parse_review_results(text: str) -> tuple[list[dict[str, str]], list[str], int]:
     lines = section_body(text, "8")
     errors: list[str] = []
-    table: list[list[str]] = []
-
-    for line in lines:
-        if line.strip().startswith("|"):
-            if is_separator_row(line):
-                continue
-            table.append(split_table_row(line))
-
-    if not table:
-        return [], errors
-
-    header = table[0]
+    skipped_tables = 0
     results: list[dict[str, str]] = []
     valid_results = {"correct", "wrong", "uncertain"}
-    for row in table[1:]:
-        data = {header[index]: row[index] if index < len(row) else "" for index in range(len(header))}
-        result = data.get("结果", "").strip()
-        if not data.get("ID", "").strip() and not result:
+
+    for header, table_rows in iter_markdown_tables(lines):
+        if header != REVIEW_RESULT_HEADER:
+            skipped_tables += 1
             continue
-        if result not in valid_results:
-            errors.append(f"Invalid review result for {data.get('ID', '')}: {result}")
-            continue
-        results.append(data)
-    return results, errors
+        for row in table_rows:
+            data = {header[index]: row[index] if index < len(row) else "" for index in range(len(header))}
+            result = data.get("结果", "").strip()
+            if not data.get("ID", "").strip() and not result:
+                continue
+            if result not in valid_results:
+                errors.append(f"Invalid review result for {data.get('ID', '')}: {result}")
+                continue
+            results.append(data)
+
+    expected_total = declared_review_total(text)
+    if expected_total and expected_total > 0 and not results:
+        errors.append(
+            f"Daily log declares review total {expected_total}, but no exact review result table was parsed."
+        )
+    return results, errors, skipped_tables
 
 
 def normalize_flag(value: str) -> str:
@@ -326,7 +366,7 @@ def apply_review_result(row: dict[str, str], result: dict[str, str], target: dat
         row["错误次数"] = str(to_int(row.get("错误次数", "0")) + 1)
         row["当前R阶段"] = rollback
         row["状态"] = "high-frequency"
-        row["下次复习"] = (target + timedelta(days=R_INTERVALS.get(rollback, 0))).isoformat()
+        row["下次复习"] = (target + timedelta(days=1)).isoformat()
         return
 
     if outcome == "uncertain":
@@ -350,33 +390,98 @@ def update_existing_rows(rows: list[dict[str, str]], results: list[dict[str, str
     return messages
 
 
+def snapshot_rows(rows: list[dict[str, str]]) -> dict[str, dict[str, str]]:
+    return {
+        row["ID"]: {
+            "状态": row.get("状态", ""),
+            "下次复习": row.get("下次复习", ""),
+        }
+        for row in rows
+    }
+
+
+def changed_existing_rows(before: dict[str, dict[str, str]], rows: list[dict[str, str]]) -> list[dict[str, str]]:
+    changes: list[dict[str, str]] = []
+    for row in rows:
+        row_id = row.get("ID", "")
+        old = before.get(row_id)
+        if old is None:
+            continue
+        old_status = old.get("状态", "")
+        old_next = old.get("下次复习", "")
+        new_status = row.get("状态", "")
+        new_next = row.get("下次复习", "")
+        if old_status == new_status and old_next == new_next:
+            continue
+        changes.append(
+            {
+                "ID": row_id,
+                "内容": row.get("内容", ""),
+                "old_status": old_status,
+                "new_status": new_status,
+                "old_next_due_date": old_next,
+                "new_next_due_date": new_next,
+            }
+        )
+    return changes
+
+
+def print_dry_run_changes(changes: list[dict[str, str]]) -> None:
+    print("Dry-run existing row changes:")
+    if not changes:
+        print("- No existing row status/date changes.")
+        return
+    print("| ID | 内容 | old_status | new_status | old_next_due_date | new_next_due_date |")
+    print("|---|---|---|---|---|---|")
+    for change in changes:
+        print(
+            f"| {sanitize_cell(change['ID'])} | {sanitize_cell(change['内容'])} | "
+            f"{sanitize_cell(change['old_status'])} | {sanitize_cell(change['new_status'])} | "
+            f"{sanitize_cell(change['old_next_due_date'])} | {sanitize_cell(change['new_next_due_date'])} |"
+        )
+
+
 def main() -> int:
     args = parse_args()
     target = parse_date(args.date)
     daily_text = read_daily_text(target)
 
     rows = read_queue_rows(QUEUE_PATH)
-    review_results, errors = parse_review_results(daily_text)
+    review_results, errors, skipped_tables = parse_review_results(daily_text)
+    print("Parse summary")
+    print(f"- parsed_results: {len(review_results)}")
+    print(f"- errors: {len(errors)}")
+    print(f"- skipped_tables: {skipped_tables}")
     if errors:
         for error in errors:
             print(error)
         return 2
 
     new_entries = parse_new_entries(daily_text)
+    before = snapshot_rows(rows)
     update_messages = update_existing_rows(rows, review_results, target)
     add_messages = add_new_entries(rows, new_entries, target)
-
-    write_queue_rows(rows, QUEUE_PATH)
+    row_changes = changed_existing_rows(before, rows)
 
     tomorrow = target + timedelta(days=1)
     tomorrow_due = due_rows(rows, tomorrow)
-    tomorrow_plan = write_review_plan(tomorrow, tomorrow_due)
+
+    if args.dry_run:
+        print("Dry-run: no files written.")
+        print_dry_run_changes(row_changes)
+        print(f"Tomorrow due items if applied: {len(tomorrow_due)}")
+    else:
+        write_queue_rows(rows, QUEUE_PATH)
+        tomorrow_plan = write_review_plan(tomorrow, tomorrow_due)
 
     print("Update summary")
     print(f"- Review results processed: {len(review_results)}")
     print(f"- New entries processed: {len(new_entries)}")
     print(f"- Queue rows total: {len(rows)}")
-    print(f"- Tomorrow review plan: {tomorrow_plan}")
+    if args.dry_run:
+        print("- Tomorrow review plan: not written (--dry-run)")
+    else:
+        print(f"- Tomorrow review plan: {tomorrow_plan}")
     print(f"- Tomorrow due items: {len(tomorrow_due)}")
     for message in update_messages + add_messages:
         print(f"- {sanitize_cell(message)}")
